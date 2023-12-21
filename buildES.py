@@ -1,12 +1,65 @@
+import decimal
 import json
 import pymysql
 from elasticsearch import Elasticsearch
+from decimal import Decimal
+from datetime import datetime,date
+es = Elasticsearch()
+import datetime
+class DateEncoder(json.JSONEncoder):
+    def default(self, obj):
+        # 处理返回数据中有date类型的数据
+        if isinstance(obj, datetime.date):
+            return obj.strftime("%Y-%m-%d")
+        # 处理返回数据中有datetime类型的数据
+        elif isinstance(obj, datetime.datetime):
+            return obj.strftime("%Y-%m-%d %H:%M:%S")
+        # 处理返回数据中有decimal类型的数据
+        elif isinstance(obj, decimal.Decimal):
+            return float(obj)
+        else:
+            return json.JSONEncoder.default(self, obj)
+
+class MyEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, datetime.datetime):
+            print("MyEncoder-datetime.datetime")
+            return obj.strftime("%Y-%m-%d %H:%M:%S")
+        if isinstance(obj, bytes):
+            return str(obj, encoding='utf-8')
+        if isinstance(obj, int):
+            return int(obj)
+        elif isinstance(obj, float):
+            return float(obj)
+        #elif isinstance(obj, array):
+        #    return obj.tolist()
+        else:
+            return super(MyEncoder, self).default(obj)
+
+print(es.ping())
+conn = pymysql.connect(host='127.0.0.1',
+                       port=3306,
+                       user="root",
+                       passwd="123456",
+                        db="bigwork",
+                       charset="utf8mb4"
+                       )
+cursor = conn.cursor()
+sql = "SELECT * FROM pdf"
+cursor.execute(sql)
+data=[]
+results = cursor.fetchall()
+for row in results:
+    data.append(row)
+data=json.dumps(data ,indent=4,ensure_ascii=False, cls=DateEncoder).encode("utf-8")
+print(data)
+with open("output.json", 'w') as write_f:
+    write_f.write(str(data))
+
 
 es = Elasticsearch()
-print(es.ping())
-
-
-geo_mappings = {
+# print(results)
+geography_mappings = {
     "settings": {
         "index": {
             "analysis": {
@@ -21,173 +74,134 @@ geo_mappings = {
     },
     "mappings" : {
         "properties": {
-            "id": {
-                "type": "keyword",
+            "paper_id": {
+                "type": "text",
+                "analyzer": "cjk_analyzer"
+
             },
-            "identifier": {
+            "title": {
                 "type": "text",
                 "analyzer": "cjk_analyzer"
             },
-            "date": {
-                "type": "date",
-            },
-            "ref_paper": {
+            "abstract": {
                 "type": "text",
                 "analyzer": "simple"
             },
-            "conference": {
+            "journal": {
                 "type": "text",
             },
-            "keywords": {
+            "doi": {
                 "type": "text",
             },
-            "year": {
-                "type": "long",
+            "link": {
+                "type": "text",
             },
-            "author":{
-                "affiliation":{
-                    "type":"text"
-                },
-                "name":{
-                    "type":"text"
-                }
-            },
-            "last_page":{
-                "type":"long"
-            },
-            "link":{
-                "type":"text"
-            },
-            "abstract":{
-                "type":"text"
-            },
-            "title":{
-                "type":"text"
-            },
-            "paper_id":{
-                "type":"text"
-            },
-            "volume":{
-                "type":"text"
-            },
-            "update_time":{
+
+            "date":{
                 "type":"date"
-            },
-            "journal":{
-                "type":"text"
-            },
-            "issn":{
-                "type":"text"
-            },
-            "first_page":{
-                "type":"long"
-            },
-            "publisher":{
-                "type":"text"
-            },
-            "doi":{
-                "type":"text"
-            },
-        }
-    }
-}
-
-users_mappings = {
-    "settings": {
-        "index": {
-            "analysis": {
-                "analyzer": {
-                    "cjk_analyzer": {
-                        "type": "custom",
-                        "tokenizer" : "icu_tokenizer"
-                    }
-                }
             }
-        }
-    },
-    "mappings" : {
-        "properties": {
-            "userId": {
-                "type": "keyword",
-            },
-            "userName": {
-                "type": "text",
-                "analyzer": "cjk_analyzer"
-            },
-            "socialComment": {
-                "type": "text",
-            },
-            "profileImageUrl": {
-                "type": "keyword",
-            },
-            "paper_id": {
-                "type": "text",
-            },
 
         }
     }
 }
+#
+# users_mappings = {
+#     "settings": {
+#         "index": {
+#             "analysis": {
+#                 "analyzer": {
+#                     "cjk_analyzer": {
+#                         "type": "custom",
+#                         "tokenizer" : "icu_tokenizer"
+#                     }
+#                 }
+#             }
+#         }
+#     },
+#     "mappings" : {
+#         "properties": {
+#             "author":{
+#                 "affiliation":{
+#                     "type":"text"
+#                 },
+#                 "name":{
+#                     "type":"text"
+#                 }
+#             },
+#             "paper_id": {
+#                 "type": "text",
+#                 "analyzer": "cjk_analyzer"
+#
+#             }
+#
+#         }
+#     }
+# }
+indexname = 'index'
+#依据mapping创建索引
+es.indices.create(index=indexname,body=geography_mappings,ignore=400)
 
-es.indices.create(index='papers_index', body=geo_mappings)
-es.indices.create(index='users_index', body=users_mappings)
 
-try:
-    conn = pymysql.connect(host="101.132.109.217",
-                            port=3306,
-                            user="ieei",
-                            passwd="Diangongdao_B",
-                            charset="utf8",
-                            db="Final_Homework")
-    cursor = conn.cursor()
-except:
-    print('Fail to connect to the database.')
+class DateEncoder(json.JSONEncoder):
+    def default(self, obj):
+        # 处理返回数据中有date类型的数据
+        if isinstance(obj, datetime.date):
+            return obj.strftime("%Y-%m-%d")
+        # 处理返回数据中有datetime类型的数据
+        elif isinstance(obj, datetime.datetime):
+            return obj.strftime("%Y-%m-%d %H:%M:%S")
+        # 处理返回数据中有decimal类型的数据
+        elif isinstance(obj, decimal.Decimal):
+            return float(obj)
+        else:
+            return json.JSONEncoder.default(self, obj)
 
-cursor.execute('SELECT * FROM ###')#等有表了再改表名
-content = cursor.fetchall()
 
+s=""
 # 导入数据
 id=0
-for i in content:
+for i in results:
     elem = {
-
-        "id": i[0],
-        "identifier": i[1],
-        "date": i[2],
-        "ref_paper": i[3],
-        "conference":i[4],
-        "keywords": i[5],
-        "author": i[6],
-        "last_page": i[7],
-        "link": i[8],
-        "abstract": i[9],
-        "title": i[10],
-        "paper_id":i[11],
-        "volume": i[12],
-        "update_time": i[13],
-        "journal":i[14],
-        "issn":i[15],
-        "first_page":i[16],
-        "publisher":i[17],
-        "doi": i[18],
+        "paper_id": i[0],
+        "title": i[1],
+        "author": i[2],
+        "abstract": i[3],
+        "journal": i[4],
+        "doi": i[5],
+        "link": i[6],
+        "date": i[7],
 
     }
-    es.index(index="papers_index", id=id, body=elem)
+    # print(i[6])
+
+    es.index(index=indexname, id=id, body=elem)
+    # print(i)
     id += 1
 
-cursor.execute('SELECT * FROM ####')
-content = cursor.fetchall()
+    new_str = json.dumps(str(elem),indent=4).replace("'", '"')
+    print(new_str)
+    s =s+new_str
+# with open("output.json", 'w') as write_f:
+#     write_f.write(s)
+cursor.close()
+conn.close()
 
-id = 0
-for i in content:
-    elem = {
+#关闭es连接
+es.close()
+# cursor.execute('SELECT * FROM bigwork')
+# content = cursor.fetchall()
+#
+# id = 0
+# for i in content:
+#     elem = {
+#
+#
+#         "author":i[0],
+#         "paper_id": i[1]
+#
+#     }
+#     es.index(index="users_index", id=id, body=elem)
+#     id += 1
 
 
-        "userId":i[0],
-        "userName": i[1],
-        "socialComment": i[2],
-        "profileImageUrl": i[3],
-        "paper_id": i[4],
 
-    }
-    es.index(index="users_index", id=id, body=elem)
-    id += 1
