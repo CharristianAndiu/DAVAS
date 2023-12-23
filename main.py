@@ -1,5 +1,5 @@
 from search import Searcher
-
+from search_all import  Searcher_all
 from fastapi import FastAPI, APIRouter, HTTPException, status
 from pydantic import BaseModel
 from typing import Dict
@@ -11,20 +11,6 @@ from typing import Optional
 from fastapi.exceptions import RequestValidationError
 import uvicorn
 app = FastAPI() # 创建 api 对象
-@app.exception_handler(RequestValidationError)  # 重写了RequestValidationError的 exception_handler方法
-async def post_validation_exception_handler(request: Request, exc: RequestValidationError):
-    print(f'参数不对{request.method},{request.url}')
-    return JSONResponse({'code': 400, 'msg': exc.errors()})
-
-es = Elasticsearch()
-
-def convert_quotes(dictionary):
-    new_dict = {}
-    for key, value in dictionary.items():
-        key_str = str(key).replace("'", '"')
-        value_str = str(value).replace("'", '"')
-        new_dict[key_str] = value_str
-    return new_dict
 
 
 app = FastAPI()
@@ -115,20 +101,29 @@ def root():
 def search(keywords:str,method : str):
 
     se = Searcher()
+
     result = se.search(keywords, method)
-    all_data=[]
+    result_all= Searcher_all.search(keywords, method)
+
+    s =[]
     for j in result:
-        new_str = json.dumps(j["_source"],indent=4).replace("'", '"')
-        print(new_str)
+        new_str = j["_source"]
+        # print(type(new_str))
+        s.append(new_str)
+        # print(new_str)
+    for j in result_all:
+        new_str = j["_source"]
+        # print(type(new_str))
+        s.append(new_str)
+    s = json.dumps(s,indent=4,ensure_ascii=False).replace("'", '"')
 
+    file_path = './output.json'
+    with open(file_path, 'w', encoding='utf-8') as file:
+        file.write(s)
 
-        all_data.append(j)
-    json.dumps(all_data, indent=2)
-    return {all_data}
+    # print(s)
 
-
-
-
+    return {s}
 
 
 if __name__ == '__main__':
