@@ -1,0 +1,234 @@
+/*搜索框样式*/
+/* CSS样式 */
+:root {
+    --bgc: #007bff;
+    --searchHeight: 50px;
+}
+
+.header {
+    height: 26%;
+    transition: 0.5s linear;
+
+}
+
+.search-container {
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: var(--searchHeight);
+    z-index: 99;
+}
+
+.switchBox {
+    color: #000;
+    font-size: 16px;
+    letter-spacing: 2px;
+    width: 100px;
+    transition: 0.5s linear;
+
+}
+
+.switchBox .menu {
+    cursor: pointer;
+    border-right: 1px solid #102127;
+    padding: 8px 25px 8px 15px;
+    font-weight: 600;
+    text-align: center;
+    width: 140px;
+}
+
+.switchBox .on {
+    border: 1px solid #102127;
+    border-right: none;
+}
+
+.inputGroup {
+    margin-left: 30px;
+}
+
+.searchInput {
+    display: none;
+    margin-left: 40px;
+}
+
+.show {
+    display: flex;
+}
+
+.search-input {
+    padding: 10px;
+    height: var(--searchHeight);
+    border: 1px solid #dfe1e5;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+    outline: none;
+    width: 630px;
+    transition: border-color 0.3s ease-in-out;
+}
+
+.search-input:hover,
+.search-input:focus {
+    border-color: #707070;
+}
+
+.search-button {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    height: var(--searchHeight);
+    width: 85px;
+    letter-spacing: 5px;
+    background-color: var(--bgc);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+/* 轮播容器样式 */
+.carousel {
+    position: relative;
+    top: 257px;
+    height: 496px;
+    width: 65%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+/* 图片容器样式 */
+.slide-container {
+    display: flex;
+    transition: transform 0.5s linear;
+}
+
+/* 单张轮播图片样式 */
+.slide {
+    flex: 0 0 100%;
+    width: 100vw;
+}
+
+/* 左右切换按钮样式 */
+.prev-button,
+.next-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+}
+
+.prev-button {
+    left: 0;
+}
+
+.next-button {
+    right: 0;
+}
+
+.contentBox, .subjectBox {
+    position: absolute;
+    top: 52%;
+    left: 12.5%;
+    width: 75%;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: hsla(228, 100%, 98%, 0.89);
+    text-align: center;
+}
+
+.contentGroup {
+    display: flex;
+    flex-wrap: wrap;
+    height: inherit;
+    width: 100%;
+    margin-top: 8px;
+}
+
+.contentBox h2, .subjectBox h2 {
+    color: #000;
+}
+
+.contentGroup .item {
+    width: 25%;
+    height: 100%;
+    padding: 15px 25px;
+    border-radius: 10px;
+    transition: 0.3s linear;
+    color: #000;
+    cursor: pointer;
+}
+
+.item .cover {
+    height: 295px;
+    margin-bottom: 10px;
+}
+
+.cover img {
+    height: 100%;
+}
+
+.item:hover {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgba(255, 255, 255, 0.93);
+}
+
+.subject {
+    flex: 1;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: 0.3s linear;
+    color: #000;
+}
+
+.subject .cover {
+    height: 140px;
+    margin-bottom: 5px;
+}
+
+.subject:hover {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgba(255, 255, 255, 0.93);
+}
+
+.subject img {
+    height: 100%;
+}
+
+/*表格组件*/
+
+.firstChart {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    width: 65%;
+    padding: 20px 20px 0;
+    border-radius: 10px;
+    background-color: #f3f5fd;
+}
+
+.secondChart {
+    position: absolute;
+    top: 44%;
+    left: 30%;
+    width: 65%;
+    padding: 20px 20px 0;
+    border-radius: 10px;
+    background-color: #f3f5fd;
+}
+
+.thirdChart {
+    position: absolute;
+    top: 73%;
+    left: 5%;
+    width: 65%;
+    padding: 20px 20px 0;
+    border-radius: 10px;
+    background-color: #f3f5fd;
+}

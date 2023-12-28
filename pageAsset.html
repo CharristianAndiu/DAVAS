@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>pageAsset</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <style>
+        .header {
+            height: 100px;
+        }
+        .returnBtn {
+            font-weight: 600;
+            color: #000;
+            font-size: 26px;
+            padding: 10px;
+            margin-right: 45%;
+            letter-spacing: 3px;
+            cursor: pointer;
+            border-radius: 10px;
+        }
+        .returnBtn:hover{
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+<header class="header" id="header">
+    <nav class="nav container">
+        <a href="#" class="nav__logo">AS（Academic search）</a>
+        <img src="assets/img/logo.png" alt="">
+        <div class="returnBtn" onclick="{returnPage()}">返回上一级</div>
+    </nav>
+</header>
+<main class="main">
+    <img src="assets/img/bg-image.png" alt="image" class="main__bg">
+<div class="pageAssetDiv">
+    <div class="imgGroup">
+    </div>
+    <div class="excelBox">
+        <h4>文章内部分表格</h4>
+        <div id="xlsx-container">
+        </div>
+    </div>
+
+</div>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.15.6/xlsx.full.min.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/pageAsset.js"></script>
+<script type="text/javascript" color="205,133,0" pointColor="0,0,0" opacity='0.7' zIndex="-1" count="150"
+        src="../node_modules/canvas-nest.js/dist/canvas-nest.js"></script>
+</body>
+</html>

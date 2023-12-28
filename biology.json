@@ -1,0 +1,1138 @@
+[
+    {
+        "title": "When physics meets biology: a less known Feynman",
+        "Published: ": "2018-05-10T06:59:00Z",
+        "abstract": "We discuss a less known aspect of Feynman's multifaceted scientific work,\ncentered about his interest in molecular biology, which came out around 1959\nand lasted for several years. After a quick historical reconstruction about the\nbirth of molecular biology, we focus on Feynman's work on genetics with Robert\nS. Edgar in the laboratory of Max Delbruck, which was later quoted by Francis\nCrick and others in relevant papers, as well as in Feynman's lectures given at\nthe Hughes Aircraft Company on biology, organic chemistry and microbiology,\nwhose notes taken by the attendee John Neer are available. An intriguing\nperspective comes out about one of the most interesting scientists of the XX\ncentury.",
+        "author": [
+            "Marco Di Mauro",
+            "Salvatore Esposito",
+            "Adele Naddeo"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1805.03854v1.pdf",
+        "Categories": [
+            [
+                "physics.hist-ph",
+                "physics.bio-ph",
+                "physics.pop-ph",
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1805.03854v1",
+        "arXiv ID": "1805.03854v1"
+    },
+    {
+        "title": "Life as Complex Systems --- Viewpoint from Intra-Inter Dynamics",
+        "Published: ": "1998-08-11T05:00:41Z",
+        "abstract": "Basic problems in complex systems are surveyed in connection with Life. As a\nkey issue for complex systems, complementarity between syntax/rule/parts and\nsemantics/behavior/whole is stressed. To address the issue, a constructive\napproach for a biological system is proposed. As a construction in a computer,\nintra-inter dynamics is presented for cell biology, where the following five\ngeneral features are drawn from our model experiments; intrinsic\ndiversification, recursive type formation, rule generation, formation of\ninternal representation, and macroscopic robustness. Significance of the\nconstructed logic to the biology of existing organisms is also discussed.",
+        "author": [
+            "Kunihiko Kaneko"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/adap-org/9808001v1.pdf",
+        "Categories": [
+            [
+                "adap-org",
+                "nlin.AO",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/adap-org/9808001v1",
+        "arXiv ID": "9808001v1"
+    },
+    {
+        "title": "Biology helps you to win a game",
+        "Published: ": "2003-03-12T11:22:11Z",
+        "abstract": "We present a game of interacting agents which mimics the complex dynamics\nfound in many natural and social systems. These agents modify their strategies\nperiodically, depending on their performances using genetic crossover\nmechanisms, inspired by biology. We study the performances of the agents under\ndifferent conditions, and how they adapt themselves. In addition the dynamics\nof the game is investigated.",
+        "author": [
+            "Marko Sysi-Aho",
+            "Anirban Chakraborti",
+            "Kimmo Kaski"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/cond-mat/0303221v1.pdf",
+        "Categories": [
+            [
+                "cond-mat.stat-mech",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/cond-mat/0303221v1",
+        "arXiv ID": "0303221v1"
+    },
+    {
+        "title": "Group testing problems in experimental molecular biology",
+        "Published: ": "1995-05-04T00:00:00Z",
+        "abstract": "In group testing, the task is to determine the distinguished members of a set\nof objects L by asking subset queries of the form ``does the subset Q of L\ncontain a distinguished object?'' The primary biological application of group\ntesting is for screening libraries of clones with hybridization probes. This is\na crucial step in constructing physical maps and for finding genes. Group\ntesting has also been considered for sequencing by hybridization. Another\nimportant application includes screening libraries of reagents for useful\nchemically active zones. This preliminary report discusses some of the\nconstrained group testing problems which arise in biology.",
+        "author": [
+            "Emanuel Knill",
+            "S. Muthukrishnan"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/9505211v1.pdf",
+        "Categories": [
+            [
+                "math.CO",
+                "q-bio",
+                "94B 05B"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/9505211v1",
+        "arXiv ID": "9505211v1"
+    },
+    {
+        "title": "Parameter inference and model selection in signaling pathway models",
+        "Published: ": "2009-05-27T16:35:40Z",
+        "abstract": "To support and guide an extensive experimental research into systems biology\nof signaling pathways, increasingly more mechanistic models are being developed\nwith hopes of gaining further insight into biological processes. In order to\nanalyse these models, computational and statistical techniques are needed to\nestimate the unknown kinetic parameters. This chapter reviews methods from\nfrequentist and Bayesian statistics for estimation of parameters and for\nchoosing which model is best for modeling the underlying system. Approximate\nBayesian Computation (ABC) techniques are introduced and employed to explore\ndifferent hypothesis about the JAK-STAT signaling pathway.",
+        "author": [
+            "Tina Toni",
+            "Michael P. H. Stumpf"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0905.4468v1.pdf",
+        "Categories": [
+            [
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0905.4468v1",
+        "arXiv ID": "0905.4468v1"
+    },
+    {
+        "title": "On applications of Ulam-Hyers stability in biology and economics",
+        "Published: ": "2010-04-03T11:57:55Z",
+        "abstract": "We argue that Ulam-Hyers stability concept is quite significant in realistic\nproblems in numerical analysis, biology and economics. A generalization to\nnonlinear systems is proposed and applied to the logistic equation (both\ndifferential and difference), SIS epidemic model, Cournot model in economics\nand a reaction diffusion equation. To the best of our knowledge this is the\nfirst time Ulam-Hyers stability is considered from the applications point of\nview.",
+        "author": [
+            "E. Ahmed",
+            "A. M. A. El-Sayed",
+            "H. A. A. El-Saka",
+            "Gehan A. Ashry"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1004.1354v1.pdf",
+        "Categories": [
+            [
+                "nlin.CD",
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1004.1354v1",
+        "arXiv ID": "1004.1354v1"
+    },
+    {
+        "title": "Deciphering neural circuits for Caenorhabditis elegans behavior by\n  computations and perturbations to genome and connectome",
+        "Published: ": "2019-10-16T16:17:33Z",
+        "abstract": "{\\it Caenorhabditis elegans} nematode worms are the only animals with the\nknown detailed neural connectivity diagram, well characterized genomics, and\nrelatively simple quantifiable behavioral output. With this in mind, many\nresearchers view this animal as the best candidate for a systems biology\napproach, where one can integrate molecular and cellular knowledge to gain\nglobal understanding of worm's behavior. This work reviews some research in\nthis direction, emphasizing computational perspective, and points out some\nsuccesses and challenges to meet this lofty goal.",
+        "author": [
+            "Jan Karbowski"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1910.07451v1.pdf",
+        "Categories": [
+            [
+                "q-bio.NC",
+                "q-bio.GN",
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1910.07451v1",
+        "arXiv ID": "1910.07451v1"
+    },
+    {
+        "title": "Guidelines for benchmarking of optimization approaches for fitting\n  mathematical models",
+        "Published: ": "2019-07-08T07:16:36Z",
+        "abstract": "Insufficient performance of optimization approaches for fitting of\nmathematical models is still a major bottleneck in systems biology. In this\nmanuscript, the reasons and methodological challenges are summarized as well as\ntheir impact in benchmark studies. Important aspects for increasing evidence of\noutcomes of benchmark analyses are discussed. Based on general guidelines for\nbenchmarking in computational biology, a collection of tailored guidelines is\npresented for performing informative and unbiased benchmarking of\noptimization-based fitting approaches. Comprehensive benchmark studies based on\nthese recommendations are urgently required for establishing of a robust and\nreliable methodology for the systems biology community.",
+        "author": [
+            "Clemens Kreutz"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1907.03427v1.pdf",
+        "Categories": [
+            [
+                "cs.PF",
+                "stat.CO"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1907.03427v1",
+        "arXiv ID": "1907.03427v1"
+    },
+    {
+        "title": "Atomic Biology, Electrostatics, and Ionic Channels",
+        "Published: ": "2008-07-04T10:35:06Z",
+        "abstract": "I believe an atomic biology is needed to supplement present day molecular\nbiology, if we are to design and understand proteins, as well as define, make,\nand use them. Topics in the paper are molecular biology and atomic biology.\nElectrodiffusion in the open channel. Electrodiffusion in mixed electrolytes.\nModels of permeation. State Models of Permeation are Inconsistent with the\nElectric Field. Making models in atomic biology. Molecular dynamics. Temporal\nLimitations; Spatial Limitations; Periodic boundary conditions. Hierarchy of\nmodels of the open channel. Stochastic Motion of the Channel. Langevin\nDynamics. Simulations of the Reaction Path: the Permion. Chemical reactions.\nWhat was wrong? Back to the hierarchy: Occam's razor can slit your throat.\nPoisson-Nernst-Planck PNP Models Flux Ratios; Pumping by Field Coupling. Gating\nin channels of one conformation. Gating by Field Switching; Gating Current;\nGating in Branched Channels; Blocking. Back to the hierarchy: Linking levels.\nIs there a theory? At what level will the adaptation be found? Simplicity,\nevolution, and natural function.",
+        "author": [
+            "R. S. Eisenberg"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0807.0715v3.pdf",
+        "Categories": [
+            [
+                "q-bio.BM",
+                "physics.bio-ph",
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0807.0715v3",
+        "arXiv ID": "0807.0715v3"
+    },
+    {
+        "title": "Global View of Bionetwork Dynamics: Adaptive Landscape",
+        "Published: ": "2009-02-05T21:25:11Z",
+        "abstract": "Quantifying the adaptive landscape in a given dynamical processes has been\none of most important goals in theoretical biology. It can have immediate\nimplications for many dynamical properties, such as robustness and plasticity.\nBased on recent work here I give a nontechnical brief review of this powerful\nquantitative concept in biology. This concept was initially proposed by S\nWright 70 years ago, re-introduced by one of the founders of molecular biology\nand by others in different biological contexts. It was apparently forgotten by\nmainstream modern biologists for many years. Currently, this concept has found\nits increasingly important role in the development of systems biology and the\nmodeling of bionetwork dynamics, from phage lambda genetic switch to endogenous\nnetwork of cancer genesis and progression. It is an ideal quantify to describe\nthe robustness and stability of bionetworks. I will first introduce five\nlandmark proposals in biology on this concept, to demonstrate the important\ncommon thread in its theoretical biology development. Then I will discuss a few\nrecent results, focusing on the work showing the logical consistency of\nadaptive landscape. From the perspective of a working scientist and of what\nneeded for a dynamical theory when confronting empirical data, the adaptive\nlandscape is useful both metaphorically and quantitatively and has captured an\nessential aspect of biological dynamical processes. Still, many important open\nproblems remain to be solved. Having this important problem under control, we\nmay expect that we are on the right road to quantitatively formulate the\nevolutionary dynamics discovered by Darwin and Wallace.",
+        "author": [
+            "P Ao"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0902.0980v1.pdf",
+        "Categories": [
+            [
+                "q-bio.QM",
+                "q-bio.PE"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0902.0980v1",
+        "arXiv ID": "0902.0980v1"
+    },
+    {
+        "title": "Towards the Understanding of Stability Puzzles in Phage lambda",
+        "Published: ": "2003-07-30T20:22:49Z",
+        "abstract": "We discuss two aspects, the in vivo and in vitro difference and the modeling\nof noise, of integrative modeling of network dynamics in biology, using phage\nlambda as an example. We believe those two aspects have not been seriously\nconsidered, and the including of them may be enough to solve the outstanding\nstability and robustness puzzle of in gene regulatory network dynamics.",
+        "author": [
+            "P. Ao",
+            "L. Yin"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/cond-mat/0307747v1.pdf",
+        "Categories": [
+            [
+                "cond-mat.soft",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/cond-mat/0307747v1",
+        "arXiv ID": "0307747v1"
+    },
+    {
+        "title": "Quantitative Measure of Stability in Gene Regulatory Networks",
+        "Published: ": "2005-07-07T00:52:46Z",
+        "abstract": "A quantitative measure of stability in stochastic dynamics starts to emerge\nin recent experiments on bioswitches. This quantity, similar to the potential\nfunction in mathematics, is deeply rooted in biology, dated back at the\nbeginning of quantitative description of biological processes: the adaptive\nlandscape of Wright (1932) and the development landscape of Waddington (1940).\nNevertheless, its quantitative implication has been frequently challenged by\nbiologists. Recent progresses in quantitative biology begin to meet those\noutstanding challenges.",
+        "author": [
+            "P. Ao"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/q-bio/0507009v1.pdf",
+        "Categories": [
+            [
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/q-bio/0507009v1",
+        "arXiv ID": "0507009v1"
+    },
+    {
+        "title": "A biology journal that can teach physicists a lesson in peer review",
+        "Published: ": "2016-12-01T13:37:04Z",
+        "abstract": "This is a Commentary in $Physics~Today$ on the novel review process developed\nby the biology journal $eLife$, with the suggestion that it be adopted by\nphysics journals.",
+        "author": [
+            "Raymond E. Goldstein"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1612.00241v1.pdf",
+        "Categories": [
+            [
+                "physics.soc-ph",
+                "cs.DL",
+                "q-bio.CB"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1612.00241v1",
+        "arXiv ID": "1612.00241v1"
+    },
+    {
+        "title": "Paths to Unconventional Computing: Causality in Complexity",
+        "Published: ": "2017-06-01T03:31:20Z",
+        "abstract": "I describe my path to unconventionality in my exploration of theoretical and\napplied aspects of computation towards revealing the algorithmic and\nreprogrammable properties and capabilities of the world, in particular related\nto applications of algorithmic complexity in reshaping molecular biology and\ntackling the challenges of causality in science.",
+        "author": [
+            "Hector Zenil"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1706.08803v1.pdf",
+        "Categories": [
+            [
+                "cs.GL"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1706.08803v1",
+        "arXiv ID": "1706.08803v1"
+    },
+    {
+        "title": "Reproducible research using biomodels",
+        "Published: ": "2018-06-04T12:45:54Z",
+        "abstract": "Like other types of computational research, modeling and simulation of\nbiological processes (biomodels) is still largely communicated without\nsufficient detail to allow independent reproduction of results. But\nreproducibility in this area of research could easily be achieved by making use\nof existing resources, such as supplying models in standard formats and\ndepositing code, models, and results in public repositories.",
+        "author": [
+            "Pedro Mendes"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1806.01078v1.pdf",
+        "Categories": [
+            [
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1806.01078v1",
+        "arXiv ID": "1806.01078v1"
+    },
+    {
+        "title": "On Some Recent Insights in Integral Biomathics",
+        "Published: ": "2013-06-11T05:45:57Z",
+        "abstract": "This paper summarizes the results in Integral Biomathics obtained to this\nmoment and provides an outlook for future research in the field.",
+        "author": [
+            "Plamen L. Simeonov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1306.2843v3.pdf",
+        "Categories": [
+            [
+                "cs.CE"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1306.2843v3",
+        "arXiv ID": "1306.2843v3"
+    },
+    {
+        "title": "Why DNA ?",
+        "Published: ": "1996-08-05T00:12:00Z",
+        "abstract": "A small collection of general facts related to DNA is presented",
+        "author": [
+            "H. C. Rosu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/cond-mat/9608014v2.pdf",
+        "Categories": [
+            [
+                "cond-mat",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/cond-mat/9608014v2",
+        "arXiv ID": "9608014v2"
+    },
+    {
+        "title": "Electrostatic correlations: from Plasma to Biology",
+        "Published: ": "2002-07-02T21:57:09Z",
+        "abstract": "Electrostatic correlations play an important role in physics, chemistry and\nbiology. In plasmas they lead to thermodynamic instability similar to the\nliquid-gas phase transition of simple molecular fluids. For charged colloidal\nsuspensions the electrostatic correlations are responsible for screening and\ncolloidal charge renormalization. In aqueous solutions containing multivalent\ncounterions they can lead to charge inversion and flocculation. In biological\nsystems the correlations account for the organization of cytoskeleton and the\ncompaction of genetic material. In spite of their ubiquity, the true importance\nof electrostatic correlations has become fully appreciated only quite recently.\nIn this paper, I will review the thermodynamic consequences of electrostatic\ncorrelations in a variety of systems ranging from classical plasmas to\nmolecular biology.",
+        "author": [
+            "Yan Levin"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/cond-mat/0207086v4.pdf",
+        "Categories": [
+            [
+                "cond-mat.soft",
+                "astro-ph",
+                "cond-mat.other",
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/cond-mat/0207086v4",
+        "arXiv ID": "0207086v4"
+    },
+    {
+        "title": "On Reidys and Stadler's metrics for RNA secondary structures",
+        "Published: ": "2003-05-15T09:16:40Z",
+        "abstract": "We compute explicitly several abstract metrics for RNA secondary structures\ndefined by Reidys and Stadler.",
+        "author": [
+            "Francesc Rossello"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0305222v1.pdf",
+        "Categories": [
+            [
+                "math.GM",
+                "math.GR",
+                "q-bio",
+                "92E10;20B99"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0305222v1",
+        "arXiv ID": "0305222v1"
+    },
+    {
+        "title": "Feedback Medicine: Control Systems Concepts in Personalised, Predictive\n  Medicine and Combinatorial Intervention",
+        "Published: ": "2006-03-27T10:25:17Z",
+        "abstract": "In its broadest definition, systems biology is the application of a `systems'\nway of thinking about and doing cell biology. By implication, this also invites\nus to consider a systems approach in the context of medicine and the treatment\nof disease. In particular, the idea that systems biology can form the basis of\na personalised, predictive medicine will require that much closer attention is\npaid to the analytic properties of the feedback loops which will be set up by a\npersonalised approach to healthcare. To emphasize the role that feedback theory\nwill play in understanding personalised medicine, we use the term feedback\nmedicine to describe the issues outlined.In these notes we consider feedback\nand control systems concepts applied to two important themes in medical systems\nbiology - personalised medicine and combinatorial intervention. In particular,\nwe formulate a feedback control interpretation for the administration of\nmedicine, and relate them to various forms of medical treatment.",
+        "author": [
+            "Peter Wellstead",
+            "Rick Middleton",
+            "Olaf Wolkenhauer"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/q-bio/0603032v1.pdf",
+        "Categories": [
+            [
+                "q-bio.TO",
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/q-bio/0603032v1",
+        "arXiv ID": "0603032v1"
+    },
+    {
+        "title": "A (possible) mathematical model to describe biological\n  \"context-dependence\" : case study with protein structure",
+        "Published: ": "2009-02-04T08:54:08Z",
+        "abstract": "Context-dependent nature of biological phenomena are well documented in every\nbranch of biology. While there have been few previous attempts to (implicitly)\nmodel various facets of biological context-dependence, a formal and general\nmathematical construct to model the wide spectrum of context-dependence, eludes\nthe students of biology. An objective and rigorous model, from both 'bottom-up'\nas well as 'top-down' perspective, is proposed here to serve as the template to\ndescribe the various kinds of context-dependence that we encounter in different\nbranches of biology. Interactions between biological contexts was found to be\ntransitive but non-commutative. It is found that a hierarchical nature of\ndependence amongst the biological contexts models the emergent biological\nproperties efficiently. Reasons for these findings are provided with a general\nmodel to describe biological reality. Scheme to algorithmically implement the\nhierarchic structure of organization of biological contexts was achieved with a\nconstruct named 'Context tree'. A 'Context tree' based analysis of context\ninteractions among biophysical factors influencing protein structure was\nperformed.",
+        "author": [
+            "Anirban Banerji"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0902.0664v2.pdf",
+        "Categories": [
+            [
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0902.0664v2",
+        "arXiv ID": "0902.0664v2"
+    },
+    {
+        "title": "Moderate Degree of Input Negative Entropy Flow and Decrease of Entropy\n  in Astrophysics, Biology, Psychology and Social Systems",
+        "Published: ": "2009-10-04T22:29:22Z",
+        "abstract": "Thermodynamics have been applied to astronomy, biology, psychology, some\nsocial systems and so on. But, various evolutions from astronomy to biology and\nsocial systems cannot be only increase of entropy. When fluctuations are\nmagnified due to internal interactions, the statistical independence and the\nsecond law of the thermodynamics are not hold. The existence of internal\ninteractions is necessary condition of decrease of entropy in isolated system.\nWe calculate quantitatively the entropy of plasma. Then we discuss the\nthermodynamics of biology, and obtain a mathematical expression on moderate\ndegree of input negative entropy flow, which is a universal scientific law.\nFurther, the thermodynamics of physiology and psychology, and the thought field\nare introduced. Qigong and various religious practices are related to these\nstates of order, in which decrease of entropy is shown due to internal\ninteractions of the isolated systems. Finally we discuss possible decrease of\nentropy in some social systems.",
+        "author": [
+            "Yi-Fang Chang"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0910.0649v1.pdf",
+        "Categories": [
+            [
+                "physics.gen-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0910.0649v1",
+        "arXiv ID": "0910.0649v1"
+    },
+    {
+        "title": "The EM Algorithm and the Rise of Computational Biology",
+        "Published: ": "2011-04-12T12:08:54Z",
+        "abstract": "In the past decade computational biology has grown from a cottage industry\nwith a handful of researchers to an attractive interdisciplinary field,\ncatching the attention and imagination of many quantitatively-minded\nscientists. Of interest to us is the key role played by the EM algorithm during\nthis transformation. We survey the use of the EM algorithm in a few important\ncomputational biology problems surrounding the \"central dogma\"; of molecular\nbiology: from DNA to RNA and then to proteins. Topics of this article include\nsequence motif discovery, protein sequence alignment, population genetics,\nevolutionary models and mRNA expression microarray data analysis.",
+        "author": [
+            "Xiaodan Fan",
+            "Yuan Yuan",
+            "Jun S. Liu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1104.2180v1.pdf",
+        "Categories": [
+            [
+                "stat.ME",
+                "q-bio.GN",
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1104.2180v1",
+        "arXiv ID": "1104.2180v1"
+    },
+    {
+        "title": "Chargaff's \"Grammar of Biology\": New Fractal-like Rules",
+        "Published: ": "2011-12-07T11:37:36Z",
+        "abstract": "Chargaff once said that \"I saw before me in dark contours the beginning of a\ngrammar of Biology\". In linguistics, \"grammar\" is the set of natural language\nrules, but we do not know for sure what Chargaff meant by \"grammar\" of Biology.\nNevertheless, assuming the metaphor, Chargaff himself started a \"grammar of\nBiology\" discovering the so called Chargaff's rules. In this work, we further\ndevelop his grammar. Using new concepts, we were able to discovery new genomic\nrules that seem to be invariant across a large set of organisms, and show a\nfractal-like property, since no matter the scale, the same pattern is observed\n(self-similarity). We hope that these new invariant genomic rules may be used\nin different contexts since short read data bias detection to genome assembly\nquality assessment.",
+        "author": [
+            "Michel Eduardo Beleza Yamagishi",
+            "Roberto H. Herai"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1112.1528v1.pdf",
+        "Categories": [
+            [
+                "q-bio.GN",
+                "cs.CE",
+                "cs.DM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1112.1528v1",
+        "arXiv ID": "1112.1528v1"
+    },
+    {
+        "title": "Vibrations, Quanta and Biology",
+        "Published: ": "2013-06-27T20:54:01Z",
+        "abstract": "Quantum biology is an emerging field of research that concerns itself with\nthe experimental and theoretical exploration of non-trivial quantum phenomena\nin biological systems. In this tutorial overview we aim to bring out\nfundamental assumptions and questions in the field, identify basic design\nprinciples and develop a key underlying theme -- the dynamics of quantum\ndynamical networks in the presence of an environment and the fruitful interplay\nthat the two may enter. At the hand of three biological phenomena whose\nunderstanding is held to require quantum mechanical processes, namely\nexcitation and charge transfer in photosynthetic complexes, magneto-reception\nin birds and the olfactory sense, we demonstrate that this underlying theme\nencompasses them all, thus suggesting its wider relevance as an archetypical\nframework for quantum biology.",
+        "author": [
+            "S. F. Huelga",
+            "M. B. Plenio"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1307.3530v1.pdf",
+        "Categories": [
+            [
+                "physics.bio-ph",
+                "physics.chem-ph",
+                "q-bio.OT",
+                "quant-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1307.3530v1",
+        "arXiv ID": "1307.3530v1"
+    },
+    {
+        "title": "Cancer systems biology in the genome sequencing era: Part 1, dissecting\n  and modeling of tumor clones and their networks",
+        "Published: ": "2014-09-06T02:38:11Z",
+        "abstract": "Recent tumor genome sequencing confirmed that one tumor often consists of\nmultiple cell subpopulations (clones) which bear different, but related,\ngenetic profiles such as mutation and copy number variation profiles. Thus far,\none tumor has been viewed as a whole entity in cancer functional studies. With\nthe advances of genome sequencing and computational analysis, we are able to\nquantify and computationally dissect clones from tumors, and then conduct\nclone-based analysis. Emerging technologies such as single-cell genome\nsequencing and RNA-Seq could profile tumor clones. Thus, we should reconsider\nhow to conduct cancer systems biology studies in the genome sequencing era. We\nwill outline new directions for conducting cancer systems biology by\nconsidering that genome sequencing technology can be used for dissecting,\nquantifying and genetically characterizing clones from tumors. Topics discussed\nin Part 1 of this review include computationally quantifying of tumor\nsubpopulations; clone-based network modeling, cancer hallmark-based networks\nand their high-order rewiring principles and the principles of cell survival\nnetworks of fast-growing clones.",
+        "author": [
+            "Edwin Wang",
+            "Jinfeng Zou",
+            "Naif Zaman",
+            "Lenore K. Beitel",
+            "Mark Trifiro",
+            "Miltiadis Paliouras"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1409.1973v1.pdf",
+        "Categories": [
+            [
+                "q-bio.MN"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1409.1973v1",
+        "arXiv ID": "1409.1973v1"
+    },
+    {
+        "title": "Leveraging a Relationship with Biology to Expand a Relationship with\n  Physics",
+        "Published: ": "2014-09-18T21:31:42Z",
+        "abstract": "This work examines how experiences in one disciplinary domain (biology) can\nimpact the relationship a student builds with another domain (physics). We\npresent a model for disciplinary relationships using the constructs of\nidentity, affect, and epistemology. With these constructs we examine an\nethnographic case study of a student who experienced a significant shift in her\nrelationship with physics. We describe how this shift demonstrates (1) a\nstronger identification with physics, (2) a more mixed affective stance towards\nphysics, and (3) more expert-like ways of knowing in physics. We argue that\nrecruiting the students relationship with biology into experiences of learning\nphysics impacted her relationship with physics as well as her sense of how\nphysics and biology are linked.",
+        "author": [
+            "Vashti Sawtelle",
+            "Chandra Turpen"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1409.5471v2.pdf",
+        "Categories": [
+            [
+                "physics.ed-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1409.5471v2",
+        "arXiv ID": "1409.5471v2"
+    },
+    {
+        "title": "Landauer in the age of synthetic biology: energy consumption and\n  information processing in biochemical networks",
+        "Published: ": "2015-05-11T03:25:24Z",
+        "abstract": "A central goal of synthetic biology is to design sophisticated synthetic\ncellular circuits that can perform complex computations and information\nprocessing tasks in response to specific inputs. The tremendous advances in our\nability to understand and manipulate cellular information processing networks\nraises several fundamental physics questions: How do the molecular components\nof cellular circuits exploit energy consumption to improve information\nprocessing? Can one utilize ideas from thermodynamics to improve the design of\nsynthetic cellular circuits and modules? Here, we summarize recent theoretical\nwork addressing these questions. Energy consumption in cellular circuits serves\nfive basic purposes: (1) increasing specificity, (2) manipulating dynamics, (3)\nreducing variability, (4) amplifying signal, and (5) erasing memory. We\ndemonstrate these ideas using several simple examples and discuss the\nimplications of these theoretical ideas for the emerging field of synthetic\nbiology. We conclude by discussing how it may be possible to overcome these\nlimitations using \"post-translational\" synthetic biology that exploits\nreversible protein modification.",
+        "author": [
+            "Pankaj Mehta",
+            "Alex H. Lang",
+            "David J. Schwab"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1505.02474v1.pdf",
+        "Categories": [
+            [
+                "q-bio.MN",
+                "cond-mat.stat-mech",
+                "physics.bio-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1505.02474v1",
+        "arXiv ID": "1505.02474v1"
+    },
+    {
+        "title": "(Mathematical) Logic for Systems Biology (Invited Paper)",
+        "Published: ": "2017-01-18T13:59:49Z",
+        "abstract": "We advocates here the use of (mathematical) logic for systems biology, as a\nunified framework well suited for both modeling the dynamic behaviour of\nbiological systems, expressing properties of them, and verifying these\nproperties. The potential candidate logics should have a traditional proof\ntheoretic pedigree (including a sequent calculus presentation enjoying\ncut-elimination and focusing), and should come with (certified) proof tools.\nBeyond providing a reliable framework, this allows the adequate encodings of\nour biological systems. We present two candidate logics (two modal extensions\nof linear logic, called HyLL and SELL), along with biological examples. The\nexamples we have considered so far are very simple ones-coming with completely\nformal (interactive) proofs in Coq. Future works includes using automatic\nprovers, which would extend existing automatic provers for linear logic. This\nshould enable us to specify and study more realistic examples in systems\nbiology, biomedicine (diagnosis and prognosis), and eventually neuroscience.",
+        "author": [
+            "Jo\u00eblle Despeyroux"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1701.05063v1.pdf",
+        "Categories": [
+            [
+                "cs.LO"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1701.05063v1",
+        "arXiv ID": "1701.05063v1"
+    },
+    {
+        "title": "Prediction of Structures and Interactions from Genome Information",
+        "Published: ": "2017-09-23T08:44:31Z",
+        "abstract": "Predicting three dimensional residue-residue contacts from evolutionary\ninformation in protein sequences was attempted already in the early 1990s.\nHowever, contact prediction accuracies of methods evaluated in CASP experiments\nbefore CASP11 remained quite low, typically with $<20$% true positives.\nRecently, contact prediction has been significantly improved to the level that\nan accurate three dimensional model of a large protein can be generated on the\nbasis of predicted contacts. This improvement was attained by disentangling\ndirect from indirect correlations in amino acid covariations or cosubstitutions\nbetween sites in protein evolution. Here, we review statistical methods for\nextracting causative correlations and various approaches to describe protein\nstructure, complex, and flexibility based on predicted contacts.",
+        "author": [
+            "Sanzo Miyazawa"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1709.08021v2.pdf",
+        "Categories": [
+            [
+                "q-bio.BM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1709.08021v2",
+        "arXiv ID": "1709.08021v2"
+    },
+    {
+        "title": "A synthetic biology approach for the design of genetic algorithms with\n  bacterial agents",
+        "Published: ": "2021-01-19T09:59:33Z",
+        "abstract": "Bacteria have been a source of inspiration for the design of evolutionary\nalgorithms. At the beginning of the 20th century synthetic biology was born, a\ndiscipline whose goal is the design of biological systems that do not exist in\nnature, for example, programmable synthetic bacteria. In this paper, we\nintroduce as a novelty the designing of evolutionary algorithms where all the\nsteps are conducted by synthetic bacteria. To this end, we designed a genetic\nalgorithm, which we have named BAGA, illustrating its utility solving simple\ninstances of optimization problems such as function optimization, 0/1 knapsack\nproblem, Hamiltonian path problem. The results obtained open the possibility of\nconceiving evolutionary algorithms inspired by principles, mechanisms and\ngenetic circuits from synthetic biology. In summary, we can conclude that\nsynthetic biology is a source of inspiration either for the design of\nevolutionary algorithms or for some of their steps, as shown by the results\nobtained in our simulation experiments.",
+        "author": [
+            "A. Gargantilla Becerra",
+            "M. Guti\u00e9rrez",
+            "R. Lahoz-Beltra"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2101.07540v1.pdf",
+        "Categories": [
+            [
+                "cs.NE",
+                "cs.MA"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2101.07540v1",
+        "arXiv ID": "2101.07540v1"
+    },
+    {
+        "title": "4D Liquid-phase Electron Microscopy of Ferritin by Brownian Single\n  Particle Analysis",
+        "Published: ": "2019-07-07T21:16:32Z",
+        "abstract": "Protein function and activity are a consequence of its three-dimensional\nstructure. Single particle analysis of cryogenic electron micrographs has\nradically changed structural biology allowing atomic reconstruction of almost\nany type of proteins. While such an approach provides snapshots of\nthree-dimensional structural information that can be correlated with function,\nthe new frontier of protein structural biology is in the fourth dimension,\ntime. Here we propose the use of liquid phase electron microscopy to expand\nstructural biology into dynamic studies. We apply here single particle analysis\nalgorithm to images of proteins in Brownian motion through time; thus, Brownian\nsingle particle analysis (BSPA). BSPA enables to reduce the acquisition time\nfrom hours, in cryo-EM, to seconds and achieve information on conformational\nchanges, hydration dynamics, and effects of thermal fluctuations. Yielding all\nthese previously neglected aspects, BSPA may lead to the verge of a new field:\ndynamic structural biology.",
+        "author": [
+            "Gabriele Marchello",
+            "Cesare De Pace",
+            "Neil Wilkinson",
+            "Lorena Ruiz-Perez",
+            "Giuseppe Battaglia"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1907.03348v1.pdf",
+        "Categories": [
+            [
+                "q-bio.BM",
+                "cond-mat.soft",
+                "physics.bio-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1907.03348v1",
+        "arXiv ID": "1907.03348v1"
+    },
+    {
+        "title": "DOME: Recommendations for supervised machine learning validation in\n  biology",
+        "Published: ": "2020-06-25T12:01:39Z",
+        "abstract": "Modern biology frequently relies on machine learning to provide predictions\nand improve decision processes. There have been recent calls for more scrutiny\non machine learning performance and possible limitations. Here we present a set\nof community-wide recommendations aiming to help establish standards of\nsupervised machine learning validation in biology. Adopting a structured\nmethods description for machine learning based on data, optimization, model,\nevaluation (DOME) will aim to help both reviewers and readers to better\nunderstand and assess the performance and limitations of a method or outcome.\nThe recommendations are formulated as questions to anyone wishing to pursue\nimplementation of a machine learning algorithm. Answers to these questions can\nbe easily included in the supplementary material of published papers.",
+        "author": [
+            "Ian Walsh",
+            "Dmytro Fishman",
+            "Dario Garcia-Gasulla",
+            "Tiina Titma",
+            "Gianluca Pollastri",
+            "The ELIXIR Machine Learning focus group",
+            "Jen Harrow",
+            "Fotis E. Psomopoulos",
+            "Silvio C. E. Tosatto"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2006.16189v4.pdf",
+        "Categories": [
+            [
+                "q-bio.OT",
+                "cs.LG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2006.16189v4",
+        "arXiv ID": "2006.16189v4"
+    },
+    {
+        "title": "Bonds and Bytes: the Odyssey of Structural Biology",
+        "Published: ": "2023-10-03T04:42:24Z",
+        "abstract": "Characterizing structural and dynamic properties of proteins and large\nmacromolecular assemblies is crucial to understand the molecular mechanisms\nunderlying biological functions. In the field of Structural Biology, no single\nmethod comprehensively reveals the behavior of biological systems across\nvarious spatio-temporal scales. Instead, we have a versatile toolkit of\ntechniques, each contributing a piece to the overall puzzle. Integrative\nStructural Biology combines different techniques to create accurate and precise\nmulti-scale models that expand our understanding of complex biological systems.\nThis review outlines recent advancements in computational and experimental\nmethods in Structural Biology, with special focus on recent Artificial\nIntelligence techniques, emphasizes integrative approaches that combine\ndifferent types of data for precise spatio-temporal modeling, and provides an\noutlook into future directions of this field.",
+        "author": [
+            "Samuel Hoff",
+            "Maximilian Zinke",
+            "Nadia Izadi-Pruneyre",
+            "Massimiliano Bonomi"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2310.01792v1.pdf",
+        "Categories": [
+            [
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2310.01792v1",
+        "arXiv ID": "2310.01792v1"
+    },
+    {
+        "title": "The Virtual Institute for Integrative Biology (VIIB)",
+        "Published: ": "2010-12-15T19:41:49Z",
+        "abstract": "The Virtual Institute for Integrative Biology (VIIB) is a Latin American\ninitiative for achieving global collaborative e-Science in the areas of\nbioinformatics, genome biology, systems biology, metagenomics, medical\napplications and nanobiotechnolgy. The scientific agenda of VIIB includes:\nconstruction of databases for comparative genomics, the AlterORF database for\nalternate open reading frames discovery in genomes, bioinformatics services and\nprotein simulations for biotechnological and medical applications. Human\nresource development has been promoted through co-sponsored students and shared\nteaching and seminars via video conferencing. E-Science challenges include:\ninteroperability and connectivity concerns, high performance computing\nlimitations, and the development of customized computational frameworks and\nflexible workflows to efficiently exploit shared resources without causing\nimpediments to the user. Outreach programs include training workshops and\nclasses for high school teachers and students and the new Adopt-a-Gene\ninitiative. The VIIB has proved an effective way for small teams to transcend\nthe critical mass problem, to overcome geographic limitations, to harness the\npower of large scale, collaborative science and improve the visibility of Latin\nAmerican science It may provide a useful paradigm for developing further\ne-Science initiatives in Latin America and other emerging regions.",
+        "author": [
+            "Gustavo Rivera",
+            "Fernando Gonz\u00e1lez-Nilo",
+            "Tom\u00e1s Perez-Acle",
+            "Raul Isea",
+            "David S. Holmes"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1012.3437v1.pdf",
+        "Categories": [
+            [
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1012.3437v1",
+        "arXiv ID": "1012.3437v1"
+    },
+    {
+        "title": "Stephane Leduc and the vital exception in the Life Sciences",
+        "Published: ": "2015-12-11T14:36:29Z",
+        "abstract": "Embryogenesis, the process by which an organism forms and develops, has long\nbeen and still is a major field of investigation in the natural sciences. By\nwhich means, which forces, are embryonic cells and tissues assembled, deformed,\nand eventually organized into an animal? Because embryogenesis deeply questions\nour understanding of the mechanisms of life, it has motivated many scientific\ntheories and philosophies over the course of history. While genetics now seems\nto have emerged as a natural background to study embryogenesis, it was intuited\nlong ago that it should also rely on mechanical forces and on the physical\nproperties of cells and tissues. In the early 20th century, Stephane Leduc\nproposed that biology was merely a subset of fluid physics, and argued that\nbiology should focus on how forces act on living matter. Rejecting vitalism and\nlife-specific approaches, he designed naive experiments based on osmosis and\ndiffusion to mimic shapes and phenomena found in living systems, in order to\nidentify physical mechanisms that could support the development of the embryo.\nWhile Leduc's ideas then had some impact in the field, notably on later\nacclaimed D'Arcy Thompson, they fell into oblivion during the later 20th\ncentury. In this article I give an overview of Stephane Leduc's physical\napproach to life, and show that the paradigm that he introduced, although long\nforsaken, becomes more and more topical today, as developmental biology\nincreasingly turns to physics and self-organization theories to study the\nmechanisms of embryogenesis. His story, I suggest, bears witness to our\nreluctance to abandon life-specific approaches in biology.",
+        "author": [
+            "Raphael Clement"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1512.03660v4.pdf",
+        "Categories": [
+            [
+                "q-bio.OT",
+                "physics.bio-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1512.03660v4",
+        "arXiv ID": "1512.03660v4"
+    },
+    {
+        "title": "Bayesian uncertainty analysis for complex systems biology models:\n  emulation, global parameter searches and evaluation of gene functions",
+        "Published: ": "2016-07-21T15:10:57Z",
+        "abstract": "Background: Many mathematical models have now been employed across every area\nof systems biology. These models increasingly involve large numbers of unknown\nparameters, have complex structure which can result in substantial evaluation\ntime relative to the needs of the analysis, and need to be compared to observed\ndata. The correct analysis of such models usually requires a global parameter\nsearch, over a high dimensional parameter space, that incorporates and respects\nthe most important sources of uncertainty. This can be an extremely difficult\ntask, but it is essential for any meaningful inference or prediction to be made\nabout any biological system. It hence represents a fundamental challenge for\nthe whole of systems biology.\n  Results: Bayesian statistical methodology for the uncertainty analysis of\ncomplex models is introduced, which is designed to address the high dimensional\nglobal parameter search problem. Bayesian emulators that mimic the systems\nbiology model but which are extremely fast to evaluate are embedded within an\niterative history match: an efficient method to search high dimensional spaces\nwithin a more formal statistical setting, while incorporating major sources of\nuncertainty. The approach is demonstrated via application to two models of\nhormonal crosstalk in Arabidopsis root development, which have 32 rate\nparameters, for which we identify the sets of rate parameter values that lead\nto acceptable matches to observed trend data. The biological consequences of\nthe resulting comparison, including the evaluation of gene functions, are\ndescribed.",
+        "author": [
+            "Ian Vernon",
+            "Junli Liu",
+            "Michael Goldstein",
+            "James Rowe",
+            "Jen Topping",
+            "Keith Lindsey"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1607.06358v2.pdf",
+        "Categories": [
+            [
+                "q-bio.MN",
+                "q-bio.CB",
+                "q-bio.QM",
+                "stat.AP",
+                "stat.ME"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1607.06358v2",
+        "arXiv ID": "1607.06358v2"
+    },
+    {
+        "title": "Mass Extinction in a Simple Mathematical Biological Model",
+        "Published: ": "1997-02-19T17:43:58Z",
+        "abstract": "Introducing the effect of extinction into the so-called replicator equations\nin mathematical biology, we construct a general model of ecosystems. The\npresent model shows mass extinction by its own extinction dynamics when the\nsystem initially has a large number of species ( diversity). The extinction\ndynamics shows several significant features such as a power law in basin size\ndistribution, induction time, etc. The present theory can be a mathematical\nfoundation of the species-area effect in the paleontologic theory for mass\nextinction.",
+        "author": [
+            "Kei Tokita",
+            "Ayumu Yasutomi"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/adap-org/9702004v1.pdf",
+        "Categories": [
+            [
+                "adap-org",
+                "nlin.AO",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/adap-org/9702004v1",
+        "arXiv ID": "9702004v1"
+    },
+    {
+        "title": "Phase Transition in Random Networks with Multiple States",
+        "Published: ": "1999-07-23T19:13:02Z",
+        "abstract": "The critical boundaries separating ordered from chaotic behavior in randomly\nwired S-state networks are calculated. These networks are a natural\ngeneralization of random Boolean nets and are proposed as on extended approach\nto genetic regulatory systems, sets of cells in different states or collectives\nof agents engaged into a set of S possible tasks. A order parameter for the\ntransition is computed and analysed. The relevance of these networks to\nbiology, their relationships with standard cellular automata and possible\nextensions are outlined.",
+        "author": [
+            "Ricard V. Sole",
+            "Bartolo Luque",
+            "Stuart Kauffman"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/adap-org/9907011v1.pdf",
+        "Categories": [
+            [
+                "adap-org",
+                "nlin.AO",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/adap-org/9907011v1",
+        "arXiv ID": "9907011v1"
+    },
+    {
+        "title": "The irregular (integer) tetrahedron as a warehouse of biological\n  information",
+        "Published: ": "2012-07-14T19:45:48Z",
+        "abstract": "This paper is devoted to a new classification of the twenty amino acids based\non the heronian (integer) tetrahedron.",
+        "author": [
+            "Tidjani Negadi"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1207.3454v1.pdf",
+        "Categories": [
+            [
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1207.3454v1",
+        "arXiv ID": "1207.3454v1"
+    },
+    {
+        "title": "Qualitative analysis of differential equations",
+        "Published: ": "2018-03-10T17:11:12Z",
+        "abstract": "Here I introduce basic methods of qualitative analysis of differential\nequations used in mathematical biology for people with minimal mathematical\nbackground.",
+        "author": [
+            "Alexander V Panfilov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1803.05291v1.pdf",
+        "Categories": [
+            [
+                "math.GM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1803.05291v1",
+        "arXiv ID": "1803.05291v1"
+    },
+    {
+        "title": "AI and Medicine",
+        "Published: ": "2019-12-05T21:58:18Z",
+        "abstract": "Which part of medicine, if any, can and should be entrusted to AI, now or at\nsome moment in the future? That both medicine and AI will continue to change\ngoes without saying.",
+        "author": [
+            "Mihai Nadin"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2001.00641v1.pdf",
+        "Categories": [
+            [
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2001.00641v1",
+        "arXiv ID": "2001.00641v1"
+    },
+    {
+        "title": "Bridging Physics and Biology Teaching through Modeling",
+        "Published: ": "2013-08-15T21:50:35Z",
+        "abstract": "As the frontiers of biology become increasingly interdisciplinary, the\nphysics education community has engaged in ongoing efforts to make physics\nclasses more relevant to life sciences majors. These efforts are complicated by\nthe many apparent differences between these fields, including the types of\nsystems that each studies, the behavior of those systems, the kinds of\nmeasurements that each makes, and the role of mathematics in each field.\nNonetheless, physics and biology are both sciences that rely on observations\nand measurements to construct models of the natural world. In the present\ntheoretical article, we propose that efforts to bridge the teaching of these\ntwo disciplines must emphasize shared scientific practices, particularly\nscientific modeling. We define modeling using language common to both\ndisciplines and highlight how an understanding of the modeling process can help\nreconcile apparent differences between the teaching of physics and biology. We\nelaborate how models can be used for explanatory, predictive, and functional\npurposes and present common models from each discipline demonstrating key\nmodeling principles. By framing interdisciplinary teaching in the context of\nmodeling, we aim to bridge physics and biology teaching and to equip students\nwith modeling competencies applicable across any scientific discipline.",
+        "author": [
+            "Anne-Marie Hoskinson",
+            "Brian A. Couch",
+            "Benjamin M. Zwickl",
+            "Kathleen Hinko",
+            "Marcos D. Caballero"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1308.3517v2.pdf",
+        "Categories": [
+            [
+                "physics.ed-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1308.3517v2",
+        "arXiv ID": "1308.3517v2"
+    },
+    {
+        "title": "Modeles De Croissance Fractale : Epidemies, Evolutions En Biologie,\n  Ecologie, Trafic, Economie",
+        "Published: ": "2004-12-01T17:44:58Z",
+        "abstract": "Several simple growth and decay models use concepts and measures from fractal\ngeometry. Kinetic models relevant to condensed matter observations arerecalled.\nThey should be specifically adapted with appropriate degrees of freedom in\norder to reproduce power law behaviors, e.g. of species extinctions, cloud\nfracture, financial crashes. This allows one to illustrate scientific problems\nrelevant to the growth and control of epidemias, and other event or entity\npropagation in biology, ecology, traffic and economy.",
+        "author": [
+            "Marcel Ausloos"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/cond-mat/0412025v1.pdf",
+        "Categories": [
+            [
+                "cond-mat.stat-mech",
+                "cond-mat.dis-nn"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/cond-mat/0412025v1",
+        "arXiv ID": "0412025v1"
+    },
+    {
+        "title": "A mathematical model for Neanderthal extinction",
+        "Published: ": "1997-12-12T21:34:50Z",
+        "abstract": "A simple mathematical homogeneous model of competition is used to describe\nNeanderthal extinction in Europe. It considers two interacting species,\nNeanderthals and Early Modern Men, in the same ecological niche. Using\npaleontological data we claim that the parameter of similarity, between both\nspecies, fluctuates between 0.992 and 0.997. An extension of the model\nincluding migration (diffusion) is also discussed nevertheless, extinction of\nNeanderthal seems unavoidable. Numerical analysis of travelling wave solution\n(fronts) comfirms the extinction. The wave-front-velocity is estimated from\nlinear analysis and numerical simulations confirm this estimation. We\nconjecture a mathematical formulation for the principle of exclusion between\ncompetitive interacting species (Gause).",
+        "author": [
+            "J. C. Flores"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/physics/9712024v1.pdf",
+        "Categories": [
+            [
+                "physics.bio-ph",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/physics/9712024v1",
+        "arXiv ID": "9712024v1"
+    },
+    {
+        "title": "The Fundamental Principles of Existence and the Origin of Physical Laws",
+        "Published: ": "2003-03-06T13:51:31Z",
+        "abstract": "In this essay the ontological structure of reality is explored. The question\nof reducibility of biology to physics is considered in the context of their\nultimate principles. It is shown that biology is an ontologically autonomous\nscience and is based on its own, independent ultimate principle that is\nindependent from that of physics. In the next step it is shown that\nself-consciousness represents a separate realm with its own, ontologically\nautonomous, ultimate principle. Understanding that reality is based on ultimate\nprinciples, a new possibility arises to interpret the origin of physical laws.",
+        "author": [
+            "A. Grandpierre"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/physics/0303025v2.pdf",
+        "Categories": [
+            [
+                "physics.gen-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/physics/0303025v2",
+        "arXiv ID": "0303025v2"
+    },
+    {
+        "title": "Long-Bone Allometry of Terrestrial Mammals and the Geometric-Shape and\n  Elastic-Force Constraints of Bone Evolution",
+        "Published: ": "2003-03-19T16:38:56Z",
+        "abstract": "A natural similarity in body dimensions of terrestrial animals noticed by\nancient philosophers remains the main key to the problem of mammalian skeletal\nevolution with body mass explored in theoretical and experimental biology and\ntested by comparative zoologists. We discuss the long-standing problem of\nmammalian bone allometry commonly studied in terms of the so-called\n''geometric'', ''elastic'', and ''static stress'' similarities by McMahon\n(1973, 1975a, 1975b). We revise the fundamental assumptions underlying these\nsimilarities and give new physical insights into geometric-shape and\nelastic-force constraints imposed on spatial evolution of mammalian long bones.",
+        "author": [
+            "V. B. Kokshenev",
+            "J. K. L. Silva",
+            "G. J. M. Garcia"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/physics/0303074v1.pdf",
+        "Categories": [
+            [
+                "physics.bio-ph",
+                "physics.gen-ph",
+                "q-bio"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/physics/0303074v1",
+        "arXiv ID": "0303074v1"
+    },
+    {
+        "title": "Quantum Effects and Genetics Code: Dynamics and Information Transfer in\n  DNA Replication",
+        "Published: ": "2006-11-03T13:03:54Z",
+        "abstract": "The possible role of quantum effects in transfer of genetic information is\nstudied. It's argued that the nucleotides selection during DNA replication is\nperformed by means of proton tunneling between nucleotide and DNA-polimerase\nbound by hydrogen bonds. Such mechanism is sensitive to the structure of\nnucleotide hydrogen bonds, consequently only one nucleotide sort is captured by\nDNA-polimerase in each event.The algorithm of this multistep selection\nmechanism is also analysed from the point of its optimality. It's shown that\nit's equivalent to Grover algorithm of data base search.",
+        "author": [
+            "S. Mayburov",
+            "C. Nicolini",
+            "V. Sivozhelezov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/q-bio/0611009v1.pdf",
+        "Categories": [
+            [
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/q-bio/0611009v1",
+        "arXiv ID": "0611009v1"
+    },
+    {
+        "title": "A discrete time neural network model with spiking neurons. Rigorous\n  results on the spontaneous dynamics",
+        "Published: ": "2007-06-01T06:49:55Z",
+        "abstract": "We derive rigorous results describing the asymptotic dynamics of a discrete\ntime model of spiking neurons introduced in \\cite{BMS}. Using symbolic dynamic\ntechniques we show how the dynamics of membrane potential has a one to one\ncorrespondence with sequences of spikes patterns (``raster plots''). Moreover,\nthough the dynamics is generically periodic, it has a weak form of initial\nconditions sensitivity due to the presence of a sharp threshold in the model\ndefinition. As a consequence, the model exhibits a dynamical regime\nindistinguishable from chaos in numerical experiments.",
+        "author": [
+            "B. Cessac"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0706.0077v1.pdf",
+        "Categories": [
+            [
+                "math.DS",
+                "nlin.CD",
+                "q-bio.NC"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0706.0077v1",
+        "arXiv ID": "0706.0077v1"
+    },
+    {
+        "title": "The immune system: look who's talking",
+        "Published: ": "2007-10-29T13:27:23Z",
+        "abstract": "Human language and its governing rules present a number of analogies with the\norganization and structure of communication and information management in\nliving organisms. This chapter will provide a short general introduction about\ngrammar, as well as a brief explanation on how linguistic approaches\neffectively contaminate scientific practice, and, finally, how they can also\nprovide systems biology with further tools and paradigms to analyse emergent\nbehaviours and interactions among the components of a biological system.",
+        "author": [
+            "Paolo Tieri"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0710.5423v2.pdf",
+        "Categories": [
+            [
+                "q-bio.OT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0710.5423v2",
+        "arXiv ID": "0710.5423v2"
+    },
+    {
+        "title": "Identification and Characterisation of Technological Topics in the Field\n  of Molecular Biology",
+        "Published: ": "2009-10-26T07:24:53Z",
+        "abstract": "This paper focuses on methodological approaches for characterising the\nspecific topics within a technological field based on scientific literature\ndata. We introduce a diachronic clustering analysis approach and some\nbibliometric indicators. The results are visualised with the software-tool\nStanalyst [1]. We are applying our methods to the field \"Molecular Biology\".\nThis field has grown a great deal in the last decade.",
+        "author": [
+            "Ivana Roche",
+            "Dominique Besagni",
+            "Claire Fran\u00e7ois",
+            "Marianne H\u00f6rlesberger",
+            "Edgar L Schiebel"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0910.4817v1.pdf",
+        "Categories": [
+            [
+                "stat.AP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0910.4817v1",
+        "arXiv ID": "0910.4817v1"
+    },
+    {
+        "title": "An exact analytical solution for generalized growth models driven by a\n  Markovian dichotomic noise",
+        "Published: ": "2010-03-03T12:22:26Z",
+        "abstract": "Logistic growth models are recurrent in biology, epidemiology, market models,\nand neural and social networks. They find important applications in many other\nfields including laser modelling. In numerous realistic cases the growth rate\nundergoes stochastic fluctuations and we consider a growth model with a\nstochastic growth rate modelled via an asymmetric Markovian dichotomic noise.\nWe find an exact analytical solution for the probability distribution providing\na powerful tool with applications ranging from biology to astrophysics and\nlaser physics.",
+        "author": [
+            "G. Aquino",
+            "M. Bologna",
+            "H. Calisto"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1003.0792v1.pdf",
+        "Categories": [
+            [
+                "cond-mat.stat-mech"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1003.0792v1",
+        "arXiv ID": "1003.0792v1"
+    },
+    {
+        "title": "Introduction to Graphical Modelling",
+        "Published: ": "2010-05-06T16:33:40Z",
+        "abstract": "The aim of this chapter is twofold. In the first part we will provide a brief\noverview of the mathematical and statistical foundations of graphical models,\nalong with their fundamental properties, estimation and basic inference\nprocedures. In particular we will develop Markov networks (also known as Markov\nrandom fields) and Bayesian networks, which comprise most past and current\nliterature on graphical models. In the second part we will review some\napplications of graphical models in systems biology.",
+        "author": [
+            "Marco Scutari",
+            "Korbinian Strimmer"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1005.1036v3.pdf",
+        "Categories": [
+            [
+                "stat.ML",
+                "math.ST",
+                "stat.TH"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1005.1036v3",
+        "arXiv ID": "1005.1036v3"
+    },
+    {
+        "title": "The Boltzmann factor, DNA melting, and Brownian ratchets: Topics in an\n  introductory physics sequence for biology and premedical students",
+        "Published: ": "2011-05-19T15:19:41Z",
+        "abstract": "Three, interrelated biologically-relevant examples of biased random walks are\npresented: (1) A model for DNA melting, modelled as DNA unzipping, which\nprovides a way to illustrate the role of the Boltzmann factor in a venue\nwell-known to biology and pre-medical students; (2) the activity of helicase\nmotor proteins in unzipping double-stranded DNA, for example, at the\nreplication fork, which is an example of a Brownian ratchet; (3) force\ngeneration by actin polymerization, which is another Brownian ratchet, and for\nwhich the force and actin-concentration dependence of the velocity of actin\npolymerization is determined.",
+        "author": [
+            "S. G. J. Mochrie"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1105.3908v1.pdf",
+        "Categories": [
+            [
+                "q-bio.BM",
+                "cond-mat.soft",
+                "cond-mat.stat-mech",
+                "physics.bio-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1105.3908v1",
+        "arXiv ID": "1105.3908v1"
+    },
+    {
+        "title": "Factored expectation propagation for input-output FHMM models in systems\n  biology",
+        "Published: ": "2013-05-17T18:44:50Z",
+        "abstract": "We consider the problem of joint modelling of metabolic signals and gene\nexpression in systems biology applications. We propose an approach based on\ninput-output factorial hidden Markov models and propose a structured\nvariational inference approach to infer the structure and states of the model.\nWe start from the classical free form structured variational mean field\napproach and use a expectation propagation to approximate the expectations\nneeded in the variational loop. We show that this corresponds to a factored\nexpectation constrained approximate inference. We validate our model through\nextensive simulations and demonstrate its applicability on a real world\nbacterial data set.",
+        "author": [
+            "Botond Cseke",
+            "Guido Sanguinetti"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1305.4153v1.pdf",
+        "Categories": [
+            [
+                "stat.ML"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1305.4153v1",
+        "arXiv ID": "1305.4153v1"
+    },
+    {
+        "title": "Exact solutions for logistic reaction-diffusion in biology",
+        "Published: ": "2016-02-24T02:30:35Z",
+        "abstract": "Reaction-diffusion equations with a nonlinear source have been widely used to\nmodel various systems, with particular application to biology. Here, we provide\na solution technique for these types of equations in $N$-dimensions. The\nnonclassical symmetry method leads to a single relationship between the\nnonlinear diffusion coefficient and the nonlinear reaction term; the subsequent\nsolutions for the Kirchhoff variable are exponential in time (either growth or\ndecay) and satisfy the linear Helmholtz equation in space. Example solutions\nare given in two dimensions for particular parameter sets for both quadratic\nand cubic reaction terms.",
+        "author": [
+            "P Broadbridge",
+            "BH Bradshaw-Hajek"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1602.07370v1.pdf",
+        "Categories": [
+            [
+                "math.AP",
+                "35K57, 35K55, 92D25, 92D99"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1602.07370v1",
+        "arXiv ID": "1602.07370v1"
+    },
+    {
+        "title": "Optical diffraction tomography techniques for the study of cell\n  pathophysiology",
+        "Published: ": "2016-03-02T06:41:17Z",
+        "abstract": "Three-dimensional imaging of biological cells is crucial for the\ninvestigation of cell biology, provide valuable information to reveal the\nmechanisms behind pathophysiology of cells and tissues. Recent advances in\noptical diffraction tomography (ODT) have demonstrated the potential for the\nstudy of various cells with its unique advantages of quantitative and\nlabel-free imaging capability. To provide insight on this rapidly growing field\nof research and to discuss its applications in biology and medicine, we present\nthe summary of the ODT principle and highlight recent studies utilizing ODT\nwith the emphasis on the applications to the pathophysiology of cells.",
+        "author": [
+            "Kyoohyun Kim",
+            "Jonghee Yoon",
+            "Seungwoo Shin",
+            "SangYun Lee",
+            "Su-A Yang",
+            "YongKeun Park"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1603.00592v1.pdf",
+        "Categories": [
+            [
+                "physics.bio-ph",
+                "physics.med-ph",
+                "physics.optics"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1603.00592v1",
+        "arXiv ID": "1603.00592v1"
+    },
+    {
+        "title": "X-ray microtomography in biology",
+        "Published: ": "2016-09-08T04:23:33Z",
+        "abstract": "Progress in high-resolution x-ray microtomography has provided us with a\npractical approach to determining three-dimensional (3D) structures of opaque\nsamples at micrometer to submicrometer resolution. In this review, we give an\nintroduction to hard x-ray microtomography and its application to the\nvisualization of 3D structures of biological soft tissues. Practical aspects of\nsample preparation, handling, data collection, 3D reconstruction, and structure\nanalysis are described. Furthermore, different sample contrasting methods are\napproached in detail. Examples of microtomographic studies are overviewed to\npresent an outline of biological applications of x-ray microtomography. We also\nprovide perspectives of biological microtomography as the convergence of\nsciences in x-ray optics, biology, and structural analysis.",
+        "author": [
+            "Ryuta Mizutani",
+            "Yoshio Suzuki"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1609.02263v1.pdf",
+        "Categories": [
+            [
+                "physics.bio-ph",
+                "physics.med-ph"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1609.02263v1",
+        "arXiv ID": "1609.02263v1"
+    },
+    {
+        "title": "A Molecular Implementation of the Least Mean Squares Estimator",
+        "Published: ": "2017-01-03T08:55:23Z",
+        "abstract": "In order to function reliably, synthetic molecular circuits require\nmechanisms that allow them to adapt to environmental disturbances. Least mean\nsquares (LMS) schemes, such as commonly encountered in signal processing and\ncontrol, provide a powerful means to accomplish that goal. In this paper we\nshow how the traditional LMS algorithm can be implemented at the molecular\nlevel using only a few elementary biomolecular reactions. We demonstrate our\napproach using several simulation studies and discuss its relevance to\nsynthetic biology.",
+        "author": [
+            "Christoph Zechner",
+            "Mustafa Khammash"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1701.00602v1.pdf",
+        "Categories": [
+            [
+                "q-bio.MN"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1701.00602v1",
+        "arXiv ID": "1701.00602v1"
+    },
+    {
+        "title": "DeepMetabolism: A Deep Learning System to Predict Phenotype from Genome\n  Sequencing",
+        "Published: ": "2017-05-08T21:26:07Z",
+        "abstract": "Life science is entering a new era of petabyte-level sequencing data.\nConverting such big data to biological insights represents a huge challenge for\ncomputational analysis. To this end, we developed DeepMetabolism, a\nbiology-guided deep learning system to predict cell phenotypes from\ntranscriptomics data. By integrating unsupervised pre-training with supervised\ntraining, DeepMetabolism is able to predict phenotypes with high accuracy\n(PCC>0.92), high speed (<30 min for >100 GB data using a single GPU), and high\nrobustness (tolerate up to 75% noise). We envision DeepMetabolism to bridge the\ngap between genotype and phenotype and to serve as a springboard for\napplications in synthetic biology and precision medicine.",
+        "author": [
+            "Weihua Guo",
+            "You Xu",
+            "Xueyang Feng"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1705.03094v1.pdf",
+        "Categories": [
+            [
+                "q-bio.GN",
+                "q-bio.QM"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1705.03094v1",
+        "arXiv ID": "1705.03094v1"
+    },
+    {
+        "title": "The Linear-Noise Approximation and moment-closure approximations for\n  stochastic chemical kinetics",
+        "Published: ": "2017-11-20T15:41:51Z",
+        "abstract": "This is a short review of two common approximations in stochastic chemical\nand biochemical kinetics. It will appear as Chapter 6 in the book \"Quantitative\nBiology: Theory, Computational Methods and Examples of Models\" edited by Brian\nMunsky, Lev Tsimring and Bill Hlavacek (to be published in late 2017/2018 by\nMIT Press). All chapter references in this article refer to chapters in the\naforementioned book.",
+        "author": [
+            "Abhyudai Singh",
+            "Ramon Grima"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1711.07383v2.pdf",
+        "Categories": [
+            [
+                "q-bio.SC"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1711.07383v2",
+        "arXiv ID": "1711.07383v2"
+    },
+    {
+        "title": "Occipital and left temporal EEG correlates of phenomenal consciousness",
+        "Published: ": "2017-11-05T00:43:09Z",
+        "abstract": "In the first section, Introduction, we present our experimental design. In\nthe second section, we characterize the grand average occipital and temporal\nelectrical activity correlated with a contrast in access. In the third section,\nwe characterize the grand average occipital and temporal electrical activity\ncorrelated with a contrast in phenomenology and conclude characterizing the\ngrand average occipital and temporal electrical activity co-occurring with\nunconsciousness.",
+        "author": [
+            "Vitor Manuel Dinis Pereira"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1712.02626v3.pdf",
+        "Categories": [
+            [
+                "q-bio.NC"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1712.02626v3",
+        "arXiv ID": "1712.02626v3"
+    }
+]

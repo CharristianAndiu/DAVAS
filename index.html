@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--=============== REMIXICONS ===============-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
+
+    <!--=============== CSS ===============-->
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <title>research engine</title>
+</head>
+
+<body>
+<!--==================== HEADER ====================-->
+<header class="header" id="header">
+    <nav class="nav container">
+        <a href="#" class="nav__logo">AS（Academic search）</a>
+        <img src="assets/img/logo.png" alt="">
+        <div class="nav__menu" id="nav-menu">
+            <ul class="nav__list">
+                <li class="nav__item">
+                    <a href="index.html" class="nav__link" id="active">Home</a>
+                </li>
+
+                <li class="nav__item">
+                    <a href="about.html" class="nav__link">About</a>
+                </li>
+
+                <li class="nav__item">
+                    <a href="picture.html" class="nav__link">Picture</a>
+                </li>
+            </ul>
+
+            <!-- Close button -->
+            <div class="nav__close" id="nav-close">
+                <i class="ri-close-line"></i>
+            </div>
+
+        </div>
+
+        <div class="nav__actions">
+            <!-- Search button -->
+            <i class="ri-search-line nav__search" id="search-btn"></i>
+        </div>
+    </nav>
+    <!--   搜索框-->
+    <div class="search-container">
+        <div class="switchBox">
+            <div class="menu on" onclick="switchSearch({id:'searchInput1',num:0,bgc:'hsl(230, 100%, 95%, 0.5)'})">标题搜索
+            </div>
+            <div class="menu" onclick="switchSearch({id:'searchInput2',num:1,bgc:'hsla(230, 100%, 93%, 0.5)'})">关键词搜索
+            </div>
+            <div class="menu" onclick="switchSearch({id:'searchInput3',num:2,bgc:'hsla(230, 100%, 90%, 0.5)'})">作者搜索
+            </div>
+        </div>
+        <div class="inputGroup">
+            <div class="searchInput show" id="searchInput1">
+                <input type="text" class="search-input" id="input1" placeholder="请输入..."
+                       onkeydown="checkEnter(event,'input1')">
+                <button class="search-button" onclick="performSearch('input1')">搜索</button>
+            </div>
+            <div class="searchInput" id="searchInput2">
+                <input type="text" class="search-input" id="input2" placeholder="请输入..."
+                       onkeydown="checkEnter(event,'input2')">
+                <button class="search-button" onclick="performSearch('input2')">搜索</button>
+            </div>
+            <div class="searchInput" id="searchInput3">
+                <input type="text" class="search-input" id="input3" placeholder="请输入..."
+                       onkeydown="checkEnter(event,'input3')">
+                <button class="search-button" onclick="performSearch('input3')">搜索</button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!--==================== SEARCH ====================-->
+<div class="search" id="search">
+    <form action="" class="search__form">
+        <i class="ri-search-line search__icon"></i>
+        <input type="search" placeholder="What are you looking for?" class="search__input">
+    </form>
+    <i class="ri-close-line search__close" id="search-close"></i>
+</div>
+
+
+<!--==================== MAIN ====================-->
+<main class="main">
+    <img src="assets/img/bg-image.png" alt="image" class="main__bg">
+    <!--    轮播图-->
+    <div class="carousel">
+        <!-- 图片容器 -->
+        <div class="slide-container">
+            <img class="slide" src="assets/img/02.jpg" alt="Image 1">
+            <img class="slide" src="assets/img/03.jpg" alt="Image 2">
+            <img class="slide" src="assets/img/04.png" alt="Image 3">
+        </div>
+        <!-- 左右切换按钮 -->
+        <div class="prev-button" onclick="prevSlide()">&#10094;</div>
+        <div class="next-button" onclick="nextSlide()">&#10095;</div>
+    </div>
+
+    <div class="contentBox">
+        <h2>顶级期刊</h2>
+        <div class="contentGroup">
+            <a class="item" href="https://www.nature.com/">
+                <div class="cover">
+                    <img src="assets/img/04.png" alt="">
+                </div>
+                <h2>Science</h2>
+            </a>
+            <a class="item" href="https://www.nature.com/">
+                <div class="cover">
+                    <img src="assets/img/06.jpg" alt="">
+                </div>
+                <h2>nature</h2>
+            </a>
+            <a class="item" href="https://www.cell.com/">
+                <div class="cover">
+                    <img src="assets/img/07.png" alt="">
+                </div>
+                <h2>Cell</h2>
+            </a>
+            <a class="item" href="https://www.thelancet.com/">
+                <div class="cover">
+                    <img src="assets/img/08.png" alt="">
+                </div>
+                <h2>The Lancet</h2>
+            </a>
+        </div>
+    </div>
+
+    <div class="subjectBox" style="top:82% ">
+        <h2>学科分类</h2>
+        <div class="contentGroup">
+            <a class="subject" href="#">
+                <div class="cover">
+                    <img src="assets/img/subject/01.jpg" alt="">
+                </div>
+                <h4>概率统计</h4>
+            </a>
+            <a class="subject" href="#">
+                <div class="cover">
+                    <img src="assets/img/subject/02.jpg" alt="">
+                </div>
+                <h4>线性代数</h4>
+            </a>
+            <a class="subject" href="#">
+                <div class="cover">
+                    <img src="assets/img/subject/03.png" alt="">
+                </div>
+                <h4>天体物理</h4>
+            </a>
+            <a class="subject" href="#">
+                <div class="cover">
+                    <img src="assets/img/subject/04.jpg" alt="">
+                </div>
+                <h4>人文历史</h4>
+            </a> <a class="subject" href="#">
+            <div class="cover">
+                <img src="assets/img/subject/05.jpg" alt="">
+            </div>
+            <h4>有机化学</h4>
+        </a> <a class="subject" href="#">
+            <div class="cover">
+                <img src="assets/img/subject/06.jpg" alt="">
+            </div>
+            <h4>法律法治</h4>
+        </a> <a class="subject" href="#">
+            <div class="cover">
+                <img src="assets/img/subject/07.jpg" alt="">
+            </div>
+            <h4>世界政治</h4>
+        </a> <a class="subject" href="#">
+            <div class="cover">
+                <img src="assets/img/subject/08.png" alt="">
+            </div>
+            <h4>前沿医学</h4>
+        </a>
+        </div>
+    </div>
+</main>
+
+<!--=============== MAIN JS ===============-->
+<script src="assets/js/carousel.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/search.js"></script>
+<script type="text/javascript" color="205,133,0" pointColor="0,0,0" opacity='0.7' zIndex="-1" count="150"
+        src="../node_modules/canvas-nest.js/dist/canvas-nest.js"></script>
+</body>
+
+</html>

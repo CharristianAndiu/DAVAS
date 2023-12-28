@@ -1,0 +1,1239 @@
+[
+    {
+        "title": "Low progress math in a high performing system",
+        "Published: ": "2023-01-26T02:33:09Z",
+        "abstract": "Math anxiety negatively relates to math performance. This negative\nrelationship may be exacerbated in low-progress math learners. However, there\nare limited studies on math anxiety among low progress learners in a\nparadoxically high performing education system like Singapore. To fill this\nresearch gap, this research analysed the anxiety profiles of 151 students who\nwere in the math learning support intervention program administered by the\nMinistry of Education, Singapore (MOE). We examined the complex relationship\ncentred in math anxiety with relevant variables such as demographic\ncharacteristics, working memory and math performance. Limitations and future\ndirections are discussed.",
+        "author": [
+            "A. Jamaludin",
+            "A. I. Jabir",
+            "F. J. Wang",
+            "A. L. Tan"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2302.01910v1.pdf",
+        "Categories": [
+            [
+                "math.HO"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2302.01910v1",
+        "arXiv ID": "2302.01910v1"
+    },
+    {
+        "title": "Automatic Generation of Headlines for Online Math Questions",
+        "Published: ": "2019-11-27T20:37:26Z",
+        "abstract": "Mathematical equations are an important part of dissemination and\ncommunication of scientific information. Students, however, often feel\nchallenged in reading and understanding math content and equations. With the\ndevelopment of the Web, students are posting their math questions online.\nNevertheless, constructing a concise math headline that gives a good\ndescription of the posted detailed math question is nontrivial. In this study,\nwe explore a novel summarization task denoted as geNerating A concise Math\nhEadline from a detailed math question (NAME). Compared to conventional\nsummarization tasks, this task has two extra and essential constraints: 1)\nDetailed math questions consist of text and math equations which require a\nunified framework to jointly model textual and mathematical information; 2)\nUnlike text, math equations contain semantic and structural features, and both\nof them should be captured together. To address these issues, we propose\nMathSum, a novel summarization model which utilizes a pointer mechanism\ncombined with a multi-head attention mechanism for mathematical representation\naugmentation. The pointer mechanism can either copy textual tokens or math\ntokens from source questions in order to generate math headlines. The\nmulti-head attention mechanism is designed to enrich the representation of math\nequations by modeling and integrating both its semantic and structural\nfeatures. For evaluation, we collect and make available two sets of real-world\ndetailed math questions along with human-written math headlines, namely\nEXEQ-300k and OFEQ-10k. Experimental results demonstrate that our model\n(MathSum) significantly outperforms state-of-the-art models for both the\nEXEQ-300k and OFEQ-10k datasets.",
+        "author": [
+            "Ke Yuan",
+            "Dafang He",
+            "Zhuoren Jiang",
+            "Liangcai Gao",
+            "Zhi Tang",
+            "C. Lee Giles"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1912.00839v1.pdf",
+        "Categories": [
+            [
+                "cs.CL"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1912.00839v1",
+        "arXiv ID": "1912.00839v1"
+    },
+    {
+        "title": "Behavioural predictors of math anxiety",
+        "Published: ": "2023-01-30T01:10:23Z",
+        "abstract": "Math anxiety is a highly prevalent problem in education that has consistently\nshown to lead to poor math performance. This study sought to investigate\nwhether certain behaviours are predictive of math anxiety among students. This\nstudy involved elementary school students who were low-progressing in math, and\nis part of an educational intervention program. Ten classifications types of\nbehavioural indicators were identified, such as counting out loud. A multiple\nlinear regression was conducted, identifying three behavioural observations\nthat were positively and significantly associated with their math anxiety.\nImplications and limitations are discussed.",
+        "author": [
+            "M. Y. K. Chen",
+            "A. Jamaludin",
+            "A. L. Tan"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2301.13639v1.pdf",
+        "Categories": [
+            [
+                "math.HO"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2301.13639v1",
+        "arXiv ID": "2301.13639v1"
+    },
+    {
+        "title": "On ordinary forms and ordinary Galois representations",
+        "Published: ": "2001-10-05T20:55:39Z",
+        "abstract": "This is a revised version of the preprint which has been available\nelectronically for a while. The paper will now appear in J. Ramanujan Math.\nSoc.",
+        "author": [
+            "Kirti Joshi",
+            "Chandrashekhar Khare"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0110071v1.pdf",
+        "Categories": [
+            [
+                "math.NT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0110071v1",
+        "arXiv ID": "0110071v1"
+    },
+    {
+        "title": "The Stanley conjecture on monomial almost complete intersection ideals",
+        "Published: ": "2011-12-21T09:23:56Z",
+        "abstract": "Let $I$ be a monomial almost complete intersection ideal of a polynomial\nalgebra $S$ over a field. Then Stanley's Conjecture holds for $S/I$ and $I$.",
+        "author": [
+            "Mircea Cimpoeas"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1112.4956v1.pdf",
+        "Categories": [
+            [
+                "math.AC",
+                "13C15 (Primary) 13F20, 13F55, 13P10 (Secondary)"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1112.4956v1",
+        "arXiv ID": "1112.4956v1"
+    },
+    {
+        "title": "A proof of the Quadratic Reciprocity Law",
+        "Published: ": "2012-10-26T14:53:29Z",
+        "abstract": "A proof of the Quadratic Reciprocity Law is presented using a Lemma of Gauss,\nthe theory of finite fields and the Frobenius automorfism.",
+        "author": [
+            "Math Dicker"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1210.7744v1.pdf",
+        "Categories": [
+            [
+                "math.HO"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1210.7744v1",
+        "arXiv ID": "1210.7744v1"
+    },
+    {
+        "title": "Un r\u00e9sultat de recherche obtenu gr\u00e2ce \u00e0 des lyc\u00e9ens",
+        "Published: ": "2016-09-16T09:25:11Z",
+        "abstract": "We give an elementary proof of a question asked by Fouvry, Kowalski and\nMichel on the solutions of the equation $x+\\frac{1}{x}+y+\\frac{1}{y}+t=0$ over\na finite field, using the results obtained by highschool students during their\nparticipation at the maths tournament \"Tournoi Fran\\c{c}ais des Jeunes\nMath\\'ematiciennes et Math\\'ematiciens\".\n  Nous pr\\'esentons une d\\'emonstration \\'el\\'ementaire d'une question pos\\'ee\npar Fouvry, Kowalski et Michel sur les solutions de l'\\'equation\n$x+\\frac{1}{x}+y+\\frac{1}{y}+t=0$ sur un corps fini, en utilisant des\nr\\'esultats obtenus par des lyc\\'eens lors de leur participation au Tournoi\nFran\\c{c}ais des Jeunes Math\\'ematiciennes et Math\\'ematiciens.",
+        "author": [
+            "Thomas Budzinski",
+            "Giancarlo Lucchini Arteche"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1609.04964v3.pdf",
+        "Categories": [
+            [
+                "math.NT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1609.04964v3",
+        "arXiv ID": "1609.04964v3"
+    },
+    {
+        "title": "ChatGPT as a Math Questioner? Evaluating ChatGPT on Generating\n  Pre-university Math Questions",
+        "Published: ": "2023-12-04T06:23:37Z",
+        "abstract": "Mathematical questioning is crucial for assessing students problem-solving\nskills. Since manually creating such questions requires substantial effort,\nautomatic methods have been explored. Existing state-of-the-art models rely on\nfine-tuning strategies and struggle to generate questions that heavily involve\nmultiple steps of logical and arithmetic reasoning. Meanwhile, large language\nmodels(LLMs) such as ChatGPT have excelled in many NLP tasks involving logical\nand arithmetic reasoning. Nonetheless, their applications in generating\neducational questions are underutilized, especially in the field of\nmathematics. To bridge this gap, we take the first step to conduct an in-depth\nanalysis of ChatGPT in generating pre-university math questions. Our analysis\nis categorized into two main settings: context-aware and context-unaware. In\nthe context-aware setting, we evaluate ChatGPT on existing math\nquestion-answering benchmarks covering elementary, secondary, and ternary\nclasses. In the context-unaware setting, we evaluate ChatGPT in generating math\nquestions for each lesson from pre-university math curriculums that we crawl.\nOur crawling results in TopicMath, a comprehensive and novel collection of\npre-university math curriculums collected from 121 math topics and 428 lessons\nfrom elementary, secondary, and tertiary classes. Through this analysis, we aim\nto provide insight into the potential of ChatGPT as a math questioner.",
+        "author": [
+            "Phuoc Pham Van Long",
+            "Duc Anh Vu",
+            "Nhat M. Hoang",
+            "Xuan Long Do",
+            "Anh Tuan Luu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2312.01661v1.pdf",
+        "Categories": [
+            [
+                "cs.CL",
+                "cs.AI"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2312.01661v1",
+        "arXiv ID": "2312.01661v1"
+    },
+    {
+        "title": "On the boundary motive of a Shimura variety",
+        "Published: ": "2004-09-21T14:50:31Z",
+        "abstract": "Applying the main results of math.AG/0408295, we identify the motives\noccurring as cones in the co-localization and localization filtrations of the\nboundary motive of a Shimura variety.",
+        "author": [
+            "J. Wildeshaus"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0409400v3.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14G35 (14F42)"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0409400v3",
+        "arXiv ID": "0409400v3"
+    },
+    {
+        "title": "Noncommutative geometry as a functor",
+        "Published: ": "2008-06-10T19:20:16Z",
+        "abstract": "In this note the noncommutative geometry is interpreted as a functor, whose\nrange is a family of the operator algebras. Some examples are given and a\nprogram is sketched.",
+        "author": [
+            "Igor Nikolaev"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0806.1728v3.pdf",
+        "Categories": [
+            [
+                "math.OA",
+                "math.CT",
+                "18D, 46L"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0806.1728v3",
+        "arXiv ID": "0806.1728v3"
+    },
+    {
+        "title": "Semantic web applications with regard to math and environment",
+        "Published: ": "2012-09-07T10:27:48Z",
+        "abstract": "The following is an outline of possible strategies in using semantic web\ntechniques and math with regard to environmental issues. The article uses\nconcrete examples and applications and provides partially a rather basic\ntreatment of semantic web techniques and math in order to adress a broader\naudience.",
+        "author": [
+            "Nadja Kutz"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1209.2097v1.pdf",
+        "Categories": [
+            [
+                "cs.DL",
+                "cs.IR",
+                "00A-xx, 06-xx, 90C-xx, 65K05, 94A-xx, 94C-xx, 97Bxx",
+                "D.2.6; D.2.12; D.3; E.m; G.m; H.3; H.5; J.2; J.6; K.3.m; K.4"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1209.2097v1",
+        "arXiv ID": "1209.2097v1"
+    },
+    {
+        "title": "The K\u00e4hler-Ricci flow on compact K\u00e4hler manifolds",
+        "Published: ": "2015-02-24T16:08:38Z",
+        "abstract": "These notes are based on a lecture series given at the Park City Math\nInstitute in the summer of 2013. The notes are intended as a leisurely\nintroduction to the K\\\"ahler-Ricci flow on compact K\\\"ahler manifolds, aimed at\ngraduate students with some background in differential geometry.",
+        "author": [
+            "Ben Weinkove"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1502.06855v1.pdf",
+        "Categories": [
+            [
+                "math.DG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1502.06855v1",
+        "arXiv ID": "1502.06855v1"
+    },
+    {
+        "title": "Long-time existence of nonlinear inhomogeneous compressible elastic\n  waves",
+        "Published: ": "2017-07-03T12:23:24Z",
+        "abstract": "In this paper, we consider the nonlinear inhomogeneous compressible elastic\nwaves in three spatial dimensions when the density is a small disturbance\naround a constant state. In homogeneous case, the almost global existence was\nestablished by Klainerman-Sideris [1996_CPAM], and global existence was built\nby Agemi [2000_Invent. Math.] and Sideris [1996_Invent. Math., 2000_Ann. Math.]\nindependently. Here we establish the corresponding almost global and global\nexistence theory in the inhomogeneous case.",
+        "author": [
+            "Silu Yin",
+            "Xiufang Cui"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1707.00504v1.pdf",
+        "Categories": [
+            [
+                "math.AP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1707.00504v1",
+        "arXiv ID": "1707.00504v1"
+    },
+    {
+        "title": "Corrigendum to \"Syndetically proximal pairs\" [J. Math. Anal. Appl. 379\n  (2011) 656--663]",
+        "Published: ": "2017-07-21T00:01:51Z",
+        "abstract": "We give a counterexample to Theorem 9 in [T.K. Subrahmonian Moothathu,\nSyndetically proximal pairs, J. Math. Anal. Appl. 379 (2011) 656--663]. We also\nprovide sufficient conditions for the conclusion of Theorem 9 to hold.",
+        "author": [
+            "Jian Li",
+            "T. K. Subrahmonian Moothathu",
+            "Piotr Oprocha"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1707.07575v1.pdf",
+        "Categories": [
+            [
+                "math.DS",
+                "37E05"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1707.07575v1",
+        "arXiv ID": "1707.07575v1"
+    },
+    {
+        "title": "Comparable linear contractions in ordered metric spaces",
+        "Published: ": "2015-07-30T18:52:09Z",
+        "abstract": "In this paper, with a view to improve the g-monotonicity condition, we\nintroduce the notion of g-comparability of a mapping defined on an ordered set\nand utilize the same to prove some existence and uniqueness results on\ncoincidence points for linear contraction without g-monotonicity in ordered\nmetric spaces. Our results extend some classical and well known results due to\nRan and Reurings (Proc. Amer. Math. Soc. 132(2004), no.5, 1435-1443), Nieto and\nRodriguez-Lopez (Acta Math. Sin. 23(2007), no.12, 2205-2212), Turinici\n(Libertas Math. 31(2011), 49-55), Turinici (Math. Student 81(2012), no.1-4,\n219-229) and Doric et al. (RACSAM 108(2014), no.2, 503-510) and similar others.",
+        "author": [
+            "Aftab Alam",
+            "Mohammad Imdad"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1507.08987v1.pdf",
+        "Categories": [
+            [
+                "math.GN",
+                "math.FA",
+                "47H10, 54H25"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1507.08987v1",
+        "arXiv ID": "1507.08987v1"
+    },
+    {
+        "title": "Anticanonical modules of Segre products",
+        "Published: ": "2017-07-02T15:13:09Z",
+        "abstract": "We compute the anticanonical module of the Segre product of standard graded\n$K$-algebras and determine its depth.",
+        "author": [
+            "Viviana Ene",
+            "J\u00fcrgen Herzog",
+            "Dumitru I. Stamate"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1707.00305v2.pdf",
+        "Categories": [
+            [
+                "math.AC",
+                "math.AG",
+                "13H10, 13C14"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1707.00305v2",
+        "arXiv ID": "1707.00305v2"
+    },
+    {
+        "title": "Text2Math: End-to-end Parsing Text into Math Expressions",
+        "Published: ": "2019-10-15T07:44:54Z",
+        "abstract": "We propose Text2Math, a model for semantically parsing text into math\nexpressions. The model can be used to solve different math related problems\nincluding arithmetic word problems and equation parsing problems. Unlike\nprevious approaches, we tackle the problem from an end-to-end structured\nprediction perspective where our algorithm aims to predict the complete math\nexpression at once as a tree structure, where minimal manual efforts are\ninvolved in the process. Empirical results on benchmark datasets demonstrate\nthe efficacy of our approach.",
+        "author": [
+            "Yanyan Zou",
+            "Wei Lu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1910.06571v1.pdf",
+        "Categories": [
+            [
+                "cs.CL"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1910.06571v1",
+        "arXiv ID": "1910.06571v1"
+    },
+    {
+        "title": "Resolution of singularities of null cones",
+        "Published: ": "2000-05-08T17:32:43Z",
+        "abstract": "We give canonical resolutions of singularities of several cone varieties\narising from invariant theory. We establish a connection between our\nresolutions and resolutions of singularities of closure of conjugacy classes in\nclassical Lie algebras.",
+        "author": [
+            "Weiqiang Wang"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0005078v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14L35"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0005078v1",
+        "arXiv ID": "0005078v1"
+    },
+    {
+        "title": "On the vanishing of higher syzygies of curves. II",
+        "Published: ": "2002-03-23T13:46:50Z",
+        "abstract": "We verify Green's conjecture for a generic $k$-gonal curve of genus $g$, for\n$g\\geq k(k-1)/2$.",
+        "author": [
+            "Marian Aprodu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0203246v1.pdf",
+        "Categories": [
+            [
+                "math.AG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0203246v1",
+        "arXiv ID": "0203246v1"
+    },
+    {
+        "title": "Derivations and structure of the Lie algebras of Xu type",
+        "Published: ": "2003-04-05T10:05:15Z",
+        "abstract": "We determine the derivation algebras and the isomorphism classes of a family\nof the simple Lie algebras introduced recently by Xu [Manuscripta Math 100\n(1999), 489-518]. The structure space of these algebras is given explicitly.",
+        "author": [
+            "Yucai Su"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0304072v1.pdf",
+        "Categories": [
+            [
+                "math.QA"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0304072v1",
+        "arXiv ID": "0304072v1"
+    },
+    {
+        "title": "All frame-spun knots are slice",
+        "Published: ": "2003-12-15T19:21:16Z",
+        "abstract": "Frame-spun knots are constructed by spinning a knot of lower dimension about\na framed submanifold of S^n. We show that all frame-spun knots are slice\n(null-cobordant).",
+        "author": [
+            "Greg Friedman"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0312295v1.pdf",
+        "Categories": [
+            [
+                "math.GT",
+                "57Q45"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0312295v1",
+        "arXiv ID": "0312295v1"
+    },
+    {
+        "title": "Reflection subgroups of Euclidean reflection groups",
+        "Published: ": "2004-02-25T06:15:09Z",
+        "abstract": "In this paper we classify reflection subgroups of Euclidean Coxeter groups.",
+        "author": [
+            "Anna Felikson",
+            "Pavel Tumarkin"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0402403v2.pdf",
+        "Categories": [
+            [
+                "math.MG",
+                "math.GR",
+                "20F55, 51F15"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0402403v2",
+        "arXiv ID": "0402403v2"
+    },
+    {
+        "title": "On a recursive equation over $p$-adic field",
+        "Published: ": "2006-05-09T16:27:00Z",
+        "abstract": "In the paper we completely describe the set of all solutions of a recursive\nequation, arising from the Bethe lattice models over $p$-adic numbers.",
+        "author": [
+            "Farrukh Mukhamedov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0605231v1.pdf",
+        "Categories": [
+            [
+                "math.DS",
+                "math.NT",
+                "46S10, 12J12"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0605231v1",
+        "arXiv ID": "0605231v1"
+    },
+    {
+        "title": "Domains of holomorphy for irreducible unitary representations of simple\n  Lie groups",
+        "Published: ": "2006-08-11T12:02:17Z",
+        "abstract": "We classify the domains of holomorphy of all Harish-Chandra modules of\nirreducible unitary representations of simple non-compact Lie groups.",
+        "author": [
+            "Bernhard Kroetz"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0608284v2.pdf",
+        "Categories": [
+            [
+                "math.RT",
+                "E22xx"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0608284v2",
+        "arXiv ID": "0608284v2"
+    },
+    {
+        "title": "On The Even CAR Algebra",
+        "Published: ": "1997-01-10T19:47:37Z",
+        "abstract": "We exhibit a family of *-isomorphisms mapping the CAR algebra onto its even\nsubalgebra.",
+        "author": [
+            "Carsten Binnenhei"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/physics/9701010v1.pdf",
+        "Categories": [
+            [
+                "math-ph",
+                "funct-an",
+                "hep-th",
+                "math.FA",
+                "math.MP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/physics/9701010v1",
+        "arXiv ID": "9701010v1"
+    },
+    {
+        "title": "Erratum to: Deformation Quantization in Algebraic Geometry",
+        "Published: ": "2007-08-13T15:15:07Z",
+        "abstract": "This note contains a correction of the proofs of the main results of the\npaper [A. Yekutieli, Deformation quantization in algebraic geometry, Adv. Math.\n198 (2005), 383-432]. The results are correct as originally stated.",
+        "author": [
+            "Amnon Yekutieli"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0708.1654v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "math.QA",
+                "53D55 (Primary); 14D15, 13D10, 16S80 (Secondary)"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0708.1654v1",
+        "arXiv ID": "0708.1654v1"
+    },
+    {
+        "title": "Remarks on Lempert functions of balanced domains",
+        "Published: ": "2008-01-18T14:22:47Z",
+        "abstract": "This note should clarify how the behavior of certain invariant objects\nreflects the geometric convexity of balanced domains.",
+        "author": [
+            "Nikolai Nikolov",
+            "Peter Pflug"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0801.2895v1.pdf",
+        "Categories": [
+            [
+                "math.CV",
+                "32F45"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0801.2895v1",
+        "arXiv ID": "0801.2895v1"
+    },
+    {
+        "title": "A note on families of hyperelliptic curves",
+        "Published: ": "2008-02-05T16:05:00Z",
+        "abstract": "We give a stack-theoretic proof for some results on families of hyperelliptic\ncurves.",
+        "author": [
+            "Sergey Gorchinskiy",
+            "Filippo Viviani"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0802.0635v2.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14A20; 14H10; 14D22; 14H45"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0802.0635v2",
+        "arXiv ID": "0802.0635v2"
+    },
+    {
+        "title": "Diophantine approximation with arithmetic functions, I",
+        "Published: ": "2008-05-19T14:13:35Z",
+        "abstract": "We prove a strong simultaneous Diophantine approximation theorem for values\nof additive and multiplicative functions provided that the functions have\ncertain regularity on the primes.",
+        "author": [
+            "Emre Alkan",
+            "Kevin Ford",
+            "Alexandru Zaharescu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0805.2867v1.pdf",
+        "Categories": [
+            [
+                "math.NT",
+                "11N64, 11N36, 11K60"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0805.2867v1",
+        "arXiv ID": "0805.2867v1"
+    },
+    {
+        "title": "Parabolic principal Higgs bundles",
+        "Published: ": "2008-06-08T03:39:01Z",
+        "abstract": "In ``Ramified G-bundles as parabolic bundles'' (J. Ramanujan Math. Soc.\n(2003) Vol. 18) with Balaji and Nagaraj we introduced the ramified principal\nbundles. The aim here is to define the Higgs bundles in the ramified context.",
+        "author": [
+            "Indranil Biswas"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0806.1308v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14F05, 14J60"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0806.1308v1",
+        "arXiv ID": "0806.1308v1"
+    },
+    {
+        "title": "The Narcowich-Wigner spectrum of a pure state",
+        "Published: ": "2008-11-29T02:44:49Z",
+        "abstract": "We completely characterize the Narcowich-Wigner spectrum of Wigner functions\nassociated with pure states.",
+        "author": [
+            "Nuno Costa Dias",
+            "Joao Nuno Prata"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0812.0043v1.pdf",
+        "Categories": [
+            [
+                "math-ph",
+                "math.MP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0812.0043v1",
+        "arXiv ID": "0812.0043v1"
+    },
+    {
+        "title": "Derivations of quasi *-algebras",
+        "Published: ": "2009-03-31T13:27:02Z",
+        "abstract": "The spatiality of derivations of quasi *-algebras is investigated by means of\nrepresentation theory. Moreover, in view of physical applications, the\nspatiality of the limit of a family of spatial derivations is considered.",
+        "author": [
+            "F. Bagarello",
+            "A. Inoue",
+            "C. Trapani"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0903.5460v1.pdf",
+        "Categories": [
+            [
+                "math-ph",
+                "math.MP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0903.5460v1",
+        "arXiv ID": "0903.5460v1"
+    },
+    {
+        "title": "Smash-nilpotent cycles on abelian 3-folds",
+        "Published: ": "2009-08-13T16:16:58Z",
+        "abstract": "We show that homologically trivial algebraic cycles on a 3-dimensional\nabelian variety are smash-nilpotent.",
+        "author": [
+            "Bruno Kahn",
+            "Ronnie Sebastian"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0908.1927v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14C15, 14K05"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0908.1927v1",
+        "arXiv ID": "0908.1927v1"
+    },
+    {
+        "title": "Irreducible modules over finite simple Lie conformal superalgebras of\n  type K",
+        "Published: ": "2010-03-23T14:05:20Z",
+        "abstract": "We construct all finite irreducible modules over Lie conformal superalgebras\nof type K",
+        "author": [
+            "Carina Boyallian",
+            "Victor G. Kac",
+            "Jose I. Liberati"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1003.4420v1.pdf",
+        "Categories": [
+            [
+                "math-ph",
+                "math.MP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1003.4420v1",
+        "arXiv ID": "1003.4420v1"
+    },
+    {
+        "title": "Torsion of elliptic curves over quadratic cyclotomic fields",
+        "Published: ": "2010-05-04T15:31:53Z",
+        "abstract": "In this paper we study the possible torsions of elliptic curves over $\\mathbb\nQ(i)$ and $\\mathbb Q(\\sqrt {-3})$.",
+        "author": [
+            "Filip Najman"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1005.0558v1.pdf",
+        "Categories": [
+            [
+                "math.NT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1005.0558v1",
+        "arXiv ID": "1005.0558v1"
+    },
+    {
+        "title": "Ambiguity-free formulation of the Higgs-Kibble model",
+        "Published: ": "2010-10-05T12:48:51Z",
+        "abstract": "A renormalizable ambiguity-free formulation of the Higgs-Kibble model is\nproposed.",
+        "author": [
+            "A. Quadri",
+            "A. A. Slavnov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1010.0870v1.pdf",
+        "Categories": [
+            [
+                "hep-th"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1010.0870v1",
+        "arXiv ID": "1010.0870v1"
+    },
+    {
+        "title": "On Primes Represented by Cubic Polynomials",
+        "Published: ": "2011-10-06T03:11:58Z",
+        "abstract": "In this paper, we prove a theorem on the distribution of primes in cubic\nprogressions on average.",
+        "author": [
+            "Timothy Foo",
+            "Liangyi Zhao"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1110.1142v2.pdf",
+        "Categories": [
+            [
+                "math.NT",
+                "11L05, 11L07, 11L15, 11L20, 11L40, 11N13, 11N32, 11N37"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1110.1142v2",
+        "arXiv ID": "1110.1142v2"
+    },
+    {
+        "title": "Schubert varieties are log Fano over the integers",
+        "Published: ": "2012-03-29T21:56:54Z",
+        "abstract": "Given a Schubert variety X_w, we exhibit a divisor \\Delta, defined over the\nintegers, such that the pair (X_w,\\Delta) is log Fano in all characteristics.",
+        "author": [
+            "Dave Anderson",
+            "Alan Stapledon"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1203.6678v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14M15, 14E30, 20G99"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1203.6678v1",
+        "arXiv ID": "1203.6678v1"
+    },
+    {
+        "title": "On Volume Growth of Gradient Steady Ricci Solitons",
+        "Published: ": "2012-08-09T20:46:18Z",
+        "abstract": "In this paper we study volume growth of gradient steady Ricci solitons. We\nshow that if the potential function satisfies a uniform condition, then the\nsoliton has at most Euclidean volume growth.",
+        "author": [
+            "Guofang Wei",
+            "Peng Wu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1208.2040v1.pdf",
+        "Categories": [
+            [
+                "math.DG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1208.2040v1",
+        "arXiv ID": "1208.2040v1"
+    },
+    {
+        "title": "A regularity upgrade of pressure",
+        "Published: ": "2021-06-22T15:11:25Z",
+        "abstract": "For the incompressible Euler equations the pressure formally scales as a\nquadratic function of velocity. We provide several optimal regularity estimates\non the pressure by using regularity of velocity in various Sobolev, Besov and\nHardy spaces. Our proof exploits the incompressibility condition in an\nessential way and is deeply connected with the classic Div-Curl lemma which we\nalso generalise as a fractional Leibniz rule in Hardy spaces. To showcase the\nsharpness of results, we construct a class of counterexamples at several\nend-points.",
+        "author": [
+            "Dong Li",
+            "Xiaoyi Zhang"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2106.11852v1.pdf",
+        "Categories": [
+            [
+                "math.AP",
+                "35Q31 (35B65 76B03)"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2106.11852v1",
+        "arXiv ID": "2106.11852v1"
+    },
+    {
+        "title": "Carleman Estimates for Second Order Elliptic Operators with Limiting\n  Weights, an Elementary Approach",
+        "Published: ": "2023-10-01T15:29:29Z",
+        "abstract": "By using some deep tools from microlocal analysis, the authors of the papers\n(Ann. of Math., 165 (2007), 567--591, J. Amer. Math. Soc., 23 (2010), 655--691;\nInvent. Math., 178 (2009), 119--171; Duke Math. J., 158(2011), 83--120) have\nsuccessfully established various Carleman estimates for elliptic operators that\npossess limiting Carleman weight. In this study, we revisit these problems and\npresent a unified and fundamental approach for deriving these estimates. The\nmain tool we employ is an elementary pointwise estimate for second-order\nelliptic operators.",
+        "author": [
+            "Zengyu Li",
+            "Qi L\u00fc"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2310.00700v1.pdf",
+        "Categories": [
+            [
+                "math.AP",
+                "math.OC",
+                "35R30"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2310.00700v1",
+        "arXiv ID": "2310.00700v1"
+    },
+    {
+        "title": "Remarks on the existence of Cartier divisors",
+        "Published: ": "2000-01-19T09:52:53Z",
+        "abstract": "Given an invertible sheaf, does it come from a Cartier divisor? This might\nfail in presence of embedded components. I give some examples and characterize\nthose invertible sheaves that allow a Cartier divisor.",
+        "author": [
+            "Stefan Schroeer"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0001104v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14C20"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0001104v1",
+        "arXiv ID": "0001104v1"
+    },
+    {
+        "title": "An asymptotic expansion for a ratio of products of gamma functions",
+        "Published: ": "2000-04-01T10:42:29Z",
+        "abstract": "An asymptotic expansion of a ratio of products of gamma functions is derived.\nIt generalizes a formula which was stated by Dingle, first proved by Paris, and\nrecently reconsidered by Olver.",
+        "author": [
+            "Wolfgang Buehring"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0004001v1.pdf",
+        "Categories": [
+            [
+                "math.CA",
+                "33B15"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0004001v1",
+        "arXiv ID": "0004001v1"
+    },
+    {
+        "title": "Stability of extremal K\u00e4hler manifolds",
+        "Published: ": "2004-04-10T11:38:13Z",
+        "abstract": "In this paper, by generalizing the concept of balanced metrics, we shall show\nthat Donaldson's asymptotic approximation of balanced metrics for constant\nscalar curvature cases can be generalized to extremal Kaehler cases.",
+        "author": [
+            "Toshiki Mabuchi"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0404211v1.pdf",
+        "Categories": [
+            [
+                "math.DG",
+                "math.AG",
+                "32Q15(Primary), 32Q20, 14L24(Secondary)"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0404211v1",
+        "arXiv ID": "0404211v1"
+    },
+    {
+        "title": "On the derivatives of generalized Gegenbauer polynomials",
+        "Published: ": "2002-01-14T11:18:01Z",
+        "abstract": "We prove some new formulae for the derivatives of the generalized Gegenbauer\npolynomials associated to the Lie algebra $A_2$.",
+        "author": [
+            "W. Garcia Fuertes",
+            "A. M. Perelomov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math-ph/0201026v1.pdf",
+        "Categories": [
+            [
+                "math-ph",
+                "math.MP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math-ph/0201026v1",
+        "arXiv ID": "0201026v1"
+    },
+    {
+        "title": "P(phi)_2 quantum field theories and Segal's axioms",
+        "Published: ": "2007-02-22T18:25:11Z",
+        "abstract": "We show that P(phi)_2 quantum field theories satisfy axioms of the type\nadvocated by Graeme Segal.",
+        "author": [
+            "Doug Pickrell"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math-ph/0702077v2.pdf",
+        "Categories": [
+            [
+                "math-ph",
+                "math.MP"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math-ph/0702077v2",
+        "arXiv ID": "0702077v2"
+    },
+    {
+        "title": "Compositional Bernoulli numbers",
+        "Published: ": "2007-08-06T18:05:51Z",
+        "abstract": "We define and study the combinatorial properties of compositional\n  Bernoulli numbers and polynomials within the framework of rational\ncombinatorics.",
+        "author": [
+            "Hector Blandin",
+            "Rafael Diaz"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0708.0809v2.pdf",
+        "Categories": [
+            [
+                "math.CO"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0708.0809v2",
+        "arXiv ID": "0708.0809v2"
+    },
+    {
+        "title": "Note on Holomorphic Transformations Preserving the Bochner Curvature\n  Tensor",
+        "Published: ": "2009-12-14T10:58:27Z",
+        "abstract": "The following result is proved: Consider a 4-dimensional Kaehler manifold M\nwith nonvanishing Bochner tensor B. Then any holomorphic transformation of M,\nwhich preserves B is a homothety.",
+        "author": [
+            "Ognian Kassabov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0912.2614v1.pdf",
+        "Categories": [
+            [
+                "math.DG",
+                "53C55"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0912.2614v1",
+        "arXiv ID": "0912.2614v1"
+    },
+    {
+        "title": "Composition and $L^2$-boundedness of flag kernels",
+        "Published: ": "2010-09-17T06:15:36Z",
+        "abstract": "We prove the composition and $L^2$-boundedness theorems for the\nNagel-Ricci-Stein flag kernels related to the natural gradation of homogeneous\ngroups.",
+        "author": [
+            "Pawel Glowacki"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1009.3343v1.pdf",
+        "Categories": [
+            [
+                "math.FA",
+                "22E30 (Primary), 35S05 (Secondary)"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1009.3343v1",
+        "arXiv ID": "1009.3343v1"
+    },
+    {
+        "title": "Multiple polylogarithms, cyclotomy and modular complexes",
+        "Published: ": "2011-05-10T23:59:56Z",
+        "abstract": "This is a copy of the article published in Math Res. Letters 5, (1998)\n497-516.",
+        "author": [
+            "A. B. Goncharov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1105.2076v1.pdf",
+        "Categories": [
+            [
+                "math.AG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1105.2076v1",
+        "arXiv ID": "1105.2076v1"
+    },
+    {
+        "title": "A converse of the Gauss--Lucas theorem",
+        "Published: ": "2013-07-31T06:52:24Z",
+        "abstract": "All linear operators $L:\\mathcal{C}[z]\\to \\mathcal{C}[z]$ which decrease the\ndiameter of the zero set of any $P\\in\\mathcal{C}[z]$ are found.",
+        "author": [
+            "Nikolai Nikolov",
+            "Blagovest Sendov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1307.8236v1.pdf",
+        "Categories": [
+            [
+                "math.CV"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1307.8236v1",
+        "arXiv ID": "1307.8236v1"
+    },
+    {
+        "title": "Beyond Mumford's theorem on normal surfaces",
+        "Published: ": "2014-01-16T08:36:09Z",
+        "abstract": "Beyond normal surfaces there are several open questions concerning 2-\ndimensional spaces. We present some results and conjectures along this line.",
+        "author": [
+            "Mihai Tibar"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1401.3930v2.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "math.CV"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1401.3930v2",
+        "arXiv ID": "1401.3930v2"
+    },
+    {
+        "title": "Canonical bases in tensor products revisited",
+        "Published: ": "2014-03-01T02:21:31Z",
+        "abstract": "We construct canonical bases in tensor products of several lowest and highest\nweight integrable modules, generalizing Lusztig's work.",
+        "author": [
+            "Huanchen Bao",
+            "Weiqiang Wang"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1403.0039v2.pdf",
+        "Categories": [
+            [
+                "math.RT"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1403.0039v2",
+        "arXiv ID": "1403.0039v2"
+    },
+    {
+        "title": "Determinantal Probability: Basic Properties and Conjectures",
+        "Published: ": "2014-06-10T20:20:56Z",
+        "abstract": "We describe the fundamental constructions and properties of determinantal\nprobability measures and point processes, giving streamlined proofs. We\nillustrate these with some important examples. We pose several general\nquestions and conjectures.",
+        "author": [
+            "Russell Lyons"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1406.2707v1.pdf",
+        "Categories": [
+            [
+                "math.PR",
+                "60K99, 60G55, 42C30, 37A15, 37A35, 37A50, 68U99"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1406.2707v1",
+        "arXiv ID": "1406.2707v1"
+    },
+    {
+        "title": "Math Marvel with M-Learning",
+        "Published: ": "2015-04-08T07:53:31Z",
+        "abstract": "Math is the backbone of any field. Still its a night mare for many. Recent\nsurvey proves that many students become dropouts from their higher education\ndue to math courses. ICT is an enchanted word in the contemporary educational\nenvironment. It made the learning process more entertaining and almost made the\nknowledge loss negligible. Adopting the ICT in math courses are still in the\ninfant level. Hence its a challenge placed in front of the IT and academic\nprofessionals teaching math to make a suitable ICT tools for math courses to\nmake the learning an amusing experience. In this paper we have highlighted\nthree main concepts which make the math classes in a fascinating way. The first\nmethod is introducing revolutionary hybrid ebooks which make the reading with\nboth audio and video facilities. The second method is facilitating the flip\nclass room so that student may have anywhere-anytime learning experience.\nFinally the recent trends in m-learning are using apps for math courses. We\nhave highlighted the improvement showed by the students based on the survey\nconducted with two groups of students with m-learning tools and without\nm-learning tools. Even though there are good improvements showed by the\nstudents, we the researchers feel that few more improvements are required in\nthese methodologies. The suggestions for the same are made in the\nrecommendations and conclusion section.",
+        "author": [
+            "R. D. Balaji",
+            "V. Veeramani",
+            "Malathi Balaji"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1504.01855v1.pdf",
+        "Categories": [
+            [
+                "cs.CY"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1504.01855v1",
+        "arXiv ID": "1504.01855v1"
+    },
+    {
+        "title": "Singular curves and their compactified Jacobians",
+        "Published: ": "2015-08-30T23:07:41Z",
+        "abstract": "We survey the theory of the compactified Jacobian associated to a singular\ncurve. We focus on describing low genus examples using the Abel map.",
+        "author": [
+            "Jesse Leo Kass"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1508.07644v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "14K30, 14H20, 14C20"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1508.07644v1",
+        "arXiv ID": "1508.07644v1"
+    },
+    {
+        "title": "On the nonvanishing of abstract Cauchy-Riemann cohomology groups",
+        "Published: ": "2015-09-15T09:31:08Z",
+        "abstract": "In this paper, we prove the infinite dimensionality of some local and global\ncohomology groups on abstract Cauchy-Riemann manifolds.",
+        "author": [
+            "Judith Brinkschulte",
+            "C. Denson Hill",
+            "Mauro Nacinovich"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1509.04461v1.pdf",
+        "Categories": [
+            [
+                "math.CV",
+                "math.AP",
+                "math.DG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1509.04461v1",
+        "arXiv ID": "1509.04461v1"
+    },
+    {
+        "title": "Algorithms in the classical N\u00e9ron Desingularization",
+        "Published: ": "2017-02-05T19:28:45Z",
+        "abstract": "We give algorithms to construct the N\\'eron Desingularization and the easy\ncase from \\cite{KK} of the General N\\'eron Desingularization.",
+        "author": [
+            "Asma Khalid",
+            "Adrian Popescu",
+            "Dorin Popescu"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1702.01445v2.pdf",
+        "Categories": [
+            [
+                "math.AC"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1702.01445v2",
+        "arXiv ID": "1702.01445v2"
+    },
+    {
+        "title": "A remark on hyperplane sections of rational normal scrolls",
+        "Published: ": "2017-09-25T06:02:24Z",
+        "abstract": "We present algebraic and geometric arguments that give a complete\nclassification of the rational normal scrolls that are hyperplane section of a\ngiven rational normal scrolls.",
+        "author": [
+            "Aldo Conca",
+            "Daniele Faenzi"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1709.08332v1.pdf",
+        "Categories": [
+            [
+                "math.AG",
+                "math.AC"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1709.08332v1",
+        "arXiv ID": "1709.08332v1"
+    },
+    {
+        "title": "Solution of a System of Linear Equations in an Integral Ring",
+        "Published: ": "2017-11-26T20:33:24Z",
+        "abstract": "A modified Gauss's algorithm for solving a system of linear equations in an\nintegral ring is proposed, as well as an appropriate algorithm for calculating\nthe elements of the adjoint matrix.",
+        "author": [
+            "Gennadi Malaschonok"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1711.09452v1.pdf",
+        "Categories": [
+            [
+                "cs.SC"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1711.09452v1",
+        "arXiv ID": "1711.09452v1"
+    },
+    {
+        "title": "Eisenstein series arising from Jordan algebras",
+        "Published: ": "2018-02-19T23:08:09Z",
+        "abstract": "We describe poles and the corresponding residual automorphic representations\nof Eisenstein series attached to maximal parabolic subgroups whose unipotent\nradicals admit Jordan algebra structure.",
+        "author": [
+            "Marcela Hanzer",
+            "Gordan Savin"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1802.06904v1.pdf",
+        "Categories": [
+            [
+                "math.RT",
+                "11F70, 22E55, 22E50"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1802.06904v1",
+        "arXiv ID": "1802.06904v1"
+    },
+    {
+        "title": "Classification of rationally elliptic toric orbifolds",
+        "Published: ": "2019-06-04T10:52:42Z",
+        "abstract": "In this note we classify simply connected rationally elliptic compact toric\norbifolds up to algebraic isomorphism.",
+        "author": [
+            "Michael Wiemeler"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1906.01335v3.pdf",
+        "Categories": [
+            [
+                "math.AT",
+                "math.AG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1906.01335v3",
+        "arXiv ID": "1906.01335v3"
+    },
+    {
+        "title": "Semantically-Aligned Equation Generation for Solving and Reasoning Math\n  Word Problems",
+        "Published: ": "2018-11-02T03:04:21Z",
+        "abstract": "Solving math word problems is a challenging task that requires accurate\nnatural language understanding to bridge natural language texts and math\nexpressions. Motivated by the intuition about how human generates the equations\ngiven the problem texts, this paper presents a neural approach to automatically\nsolve math word problems by operating symbols according to their semantic\nmeanings in texts. This paper views the process of generating equation as a\nbridge between the semantic world and the symbolic world, where the proposed\nneural math solver is based on an encoder-decoder framework. In the proposed\nmodel, the encoder is designed to understand the semantics of problems, and the\ndecoder focuses on tracking semantic meanings of the generated symbols and then\ndeciding which symbol to generate next. The preliminary experiments are\nconducted in a dataset Math23K, and our model significantly outperforms both\nthe state-of-the-art single model and the best non-retrieval-based model over\nabout 10% accuracy, demonstrating the effectiveness of bridging the symbolic\nand semantic worlds from math word problems.",
+        "author": [
+            "Ting-Rui Chiang",
+            "Yun-Nung Chen"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1811.00720v2.pdf",
+        "Categories": [
+            [
+                "cs.CL"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1811.00720v2",
+        "arXiv ID": "1811.00720v2"
+    },
+    {
+        "title": "MathQA: Towards Interpretable Math Word Problem Solving with\n  Operation-Based Formalisms",
+        "Published: ": "2019-05-30T21:28:12Z",
+        "abstract": "We introduce a large-scale dataset of math word problems and an interpretable\nneural math problem solver that learns to map problems to operation programs.\nDue to annotation challenges, current datasets in this domain have been either\nrelatively small in scale or did not offer precise operational annotations over\ndiverse problem types. We introduce a new representation language to model\nprecise operation programs corresponding to each math problem that aim to\nimprove both the performance and the interpretability of the learned models.\nUsing this representation language, our new dataset, MathQA, significantly\nenhances the AQuA dataset with fully-specified operational programs. We\nadditionally introduce a neural sequence-to-program model enhanced with\nautomatic problem categorization. Our experiments show improvements over\ncompetitive baselines in our MathQA as well as the AQuA dataset. The results\nare still significantly lower than human performance indicating that the\ndataset poses new challenges for future research. Our dataset is available at:\nhttps://math-qa.github.io/math-QA/",
+        "author": [
+            "Aida Amini",
+            "Saadia Gabriel",
+            "Peter Lin",
+            "Rik Koncel-Kedziorski",
+            "Yejin Choi",
+            "Hannaneh Hajishirzi"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/1905.13319v1.pdf",
+        "Categories": [
+            [
+                "cs.CL"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/1905.13319v1",
+        "arXiv ID": "1905.13319v1"
+    },
+    {
+        "title": "Discrete Math with Programming: A Principled Approach",
+        "Published: ": "2020-11-28T03:41:27Z",
+        "abstract": "Discrete mathematics is the foundation of computer science. It focuses on\nconcepts and reasoning methods that are studied using math notations. It has\nlong been argued that discrete math is better taught with programming, which\ntakes concepts and computing methods and turns them into executable programs.\nWhat has been lacking is a principled approach that supports all central\nconcepts of discrete math -- especially predicate logic -- and that directly\nand precisely connects math notations with executable programs. This paper\nintroduces such an approach. It is based on the use of a powerful language that\nextends the Python programming language with proper logic quantification (\"for\nall\" and \"exists some\"), as well as declarative set comprehension (also known\nas set builder) and aggregation (e.g., sum and product). Math and logical\nstatements can be expressed precisely at a high level and be executed directly\non a computer, encouraging declarative programming together with algorithmic\nprogramming. We describe the approach, detailed examples, experience in using\nit, and the lessons learned.",
+        "author": [
+            "Yanhong A. Liu",
+            "Matthew Castelllana"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2011.14059v1.pdf",
+        "Categories": [
+            [
+                "cs.CY"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2011.14059v1",
+        "arXiv ID": "2011.14059v1"
+    },
+    {
+        "title": "Solving Math Word Problems by Combining Language Models With Symbolic\n  Solvers",
+        "Published: ": "2023-04-16T04:16:06Z",
+        "abstract": "Automatically generating high-quality step-by-step solutions to math word\nproblems has many applications in education. Recently, combining large language\nmodels (LLMs) with external tools to perform complex reasoning and calculation\nhas emerged as a promising direction for solving math word problems, but prior\napproaches such as Program-Aided Language model (PAL) are biased towards simple\nprocedural problems and less effective for problems that require declarative\nreasoning. We propose an approach that combines an LLM that can incrementally\nformalize word problems as a set of variables and equations with an external\nsymbolic solver that can solve the equations. Our approach achieves comparable\naccuracy to the original PAL on the GSM8K benchmark of math word problems and\noutperforms PAL by an absolute 20% on ALGEBRA, a new dataset of more\nchallenging word problems extracted from Algebra textbooks. Our work highlights\nthe benefits of using declarative and incremental representations when\ninterfacing with an external tool for solving complex math word problems. Our\ndata and prompts are publicly available at\nhttps://github.com/joyheyueya/declarative-math-word-problem.",
+        "author": [
+            "Joy He-Yueya",
+            "Gabriel Poesia",
+            "Rose E. Wang",
+            "Noah D. Goodman"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2304.09102v1.pdf",
+        "Categories": [
+            [
+                "cs.CL",
+                "cs.AI"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2304.09102v1",
+        "arXiv ID": "2304.09102v1"
+    },
+    {
+        "title": "MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical\n  Reasoning",
+        "Published: ": "2023-10-05T17:52:09Z",
+        "abstract": "The recently released GPT-4 Code Interpreter has demonstrated remarkable\nproficiency in solving challenging math problems, primarily attributed to its\nability to seamlessly reason with natural language, generate code, execute\ncode, and continue reasoning based on the execution output. In this paper, we\npresent a method to fine-tune open-source language models, enabling them to use\ncode for modeling and deriving math equations and, consequently, enhancing\ntheir mathematical reasoning abilities. We propose a method of generating novel\nand high-quality datasets with math problems and their code-based solutions,\nreferred to as MathCodeInstruct. Each solution interleaves natural language,\ncode, and execution results. We also introduce a customized supervised\nfine-tuning and inference approach. This approach yields the MathCoder models,\na family of models capable of generating code-based solutions for solving\nchallenging math problems. Impressively, the MathCoder models achieve\nstate-of-the-art scores among open-source LLMs on the MATH (45.2%) and GSM8K\n(83.9%) datasets, substantially outperforming other open-source alternatives.\nNotably, the MathCoder model not only surpasses ChatGPT-3.5 and PaLM-2 on GSM8K\nand MATH but also outperforms GPT-4 on the competition-level MATH dataset. The\ndataset and models will be released at https://github.com/mathllm/MathCoder.",
+        "author": [
+            "Ke Wang",
+            "Houxing Ren",
+            "Aojun Zhou",
+            "Zimu Lu",
+            "Sichun Luo",
+            "Weikang Shi",
+            "Renrui Zhang",
+            "Linqi Song",
+            "Mingjie Zhan",
+            "Hongsheng Li"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/2310.03731v1.pdf",
+        "Categories": [
+            [
+                "cs.CL",
+                "cs.AI",
+                "cs.CV",
+                "cs.LG"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/2310.03731v1",
+        "arXiv ID": "2310.03731v1"
+    },
+    {
+        "title": "Oka's principle for holomorphic submersions with sprays",
+        "Published: ": "2001-01-05T10:47:04Z",
+        "abstract": "We prove a theorem of M. Gromov (Oka's principle for holomorphic sections of\nelliptic bundles, J. Amer. Math. Soc. 2, 851-897, 1989) to the effect that\nsections of certain holomorphic submersions h from a complex manifold Z onto a\nStein manifold X satisfy the Oka principle, meaning that the inclusion of the\nspace of holomorphic sections into the space of continuous sections is a weak\nhomotopy equivalence. The Oka principle holds if the submersion admits a\nfiber-dominating spray over a small neighborhood of any point in X. This\nextends a classical result of Grauert (Holomorphe Funktionen mit Werten in\nkomplexen Lieschen Gruppen, Math. Ann. 133, 450-472, 1957). Gromov's result has\nbeen used in the proof of the embedding theorems for Stein manifolds and Stein\nspaces into Euclidean spaces of minimal dimension (Y. Eliashberg and M. Gromov,\nAnn. Math. 136, 123-135, 1992; J. Schurmann, Math. Ann. 307, 381-399, 1997).\nFor further extensions see the preprints math.CV/0101034, math.CV/0107039, and\nmath.CV/0110201.",
+        "author": [
+            "Franc Forstneric",
+            "Jasna Prezelj"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/math/0101040v3.pdf",
+        "Categories": [
+            [
+                "math.CV",
+                "32H05; 32L05; 32Q28; 32Q55"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/math/0101040v3",
+        "arXiv ID": "0101040v3"
+    },
+    {
+        "title": "On localization properties of Fourier transforms of hyperfunctions",
+        "Published: ": "2008-11-09T14:57:53Z",
+        "abstract": "In [Adv. Math. 196 (2005) 310-345] the author introduced a new generalized\nfunction space $\\mathcal U(R^k)$ which can be naturally interpreted as the\nFourier transform of the space of Sato's hyperfunctions on $R^k$. It was shown\nthat all Gelfand--Shilov spaces $S^{\\prime 0}_\\alpha(R^k)$ ($\\alpha>1$) of\nanalytic functionals are canonically embedded in $\\mathcal U(R^k)$. While the\nusual definition of support of a generalized function is inapplicable to\nelements of $S^{\\prime 0}_\\alpha(R^k)$ and $\\mathcal U(R^k)$, their\nlocalization properties can be consistently described using the concept of {\\it\ncarrier cone} introduced by Soloviev [Lett. Math. Phys. 33 (1995) 49-59; Comm.\nMath. Phys. 184 (1997) 579-596]. In this paper, the relation between carrier\ncones of elements of $S^{\\prime 0}_\\alpha(R^k)$ and $\\mathcal U(R^k)$ is\nstudied. It is proved that an analytic functional $u\\in S^{\\prime\n0}_\\alpha(R^k)$ is carried by a cone $K\\subset R^k$ if and only if its\ncanonical image in $\\mathcal U(R^k)$ is carried by $K$.",
+        "author": [
+            "A. G. Smirnov"
+        ],
+        "pdfLink": "http://arxiv.org/pdf/0811.1342v1.pdf",
+        "Categories": [
+            [
+                "math.FA",
+                "math.CV"
+            ]
+        ],
+        "Link": "http://arxiv.org/abs/0811.1342v1",
+        "arXiv ID": "0811.1342v1"
+    }
+]

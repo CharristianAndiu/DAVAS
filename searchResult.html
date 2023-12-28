@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--=============== REMIXICONS ===============-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
+
+    <!--=============== CSS ===============-->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <title>Responsive navbar with search and login - Bedimcode</title>
+</head>
+
+<body>
+<!--==================== HEADER ====================-->
+<header class="header" id="header">
+    <nav class="nav container">
+        <a href="#" class="nav__logo">AS（Academic search）</a>
+        <img src="assets/img/logo.png" alt="">
+        <div class="nav__menu" id="nav-menu">
+            <ul class="nav__list">
+                <li class="nav__item">
+                    <a href="index.html" class="nav__link">Home</a>
+                </li>
+
+                <li class="nav__item">
+                    <a href="about.html" class="nav__link">About</a>
+                </li>
+
+                <li class="nav__item">
+                    <a href="picture.html" class="nav__link">Picture</a>
+                </li>
+
+            </ul>
+
+            <!-- Close button -->
+            <div class="nav__close" id="nav-close">
+                <i class="ri-close-line"></i>
+            </div>
+
+        </div>
+
+        <div class="nav__actions">
+            <!-- Search button -->
+            <i class="ri-search-line nav__search" id="search-btn"></i>
+        </div>
+    </nav>
+    <!--   搜索框-->
+    <div class="search-container">
+        <div class="switchBox">
+            <div class="menu on" onclick="switchSearch({id:'searchInput1',num:0,bgc:'hsl(230, 100%, 98%)'})">Titel</div>
+            <div class="menu" onclick="switchSearch({id:'searchInput2',num:1,bgc:'hsla(214,95%,84%,0.7)'})">Keyword</div>
+            <div class="menu" onclick="switchSearch({id:'searchInput3',num:2,bgc:'hsla(207,82%,66%,0.74)'})">Author</div>
+        </div>
+        <div class="inputGroup">
+            <div class="searchInput show" id="searchInput1">
+                <input type="text" class="search-input" id="input1" placeholder="请输入title..."
+                       onkeydown="checkEnter(event,'input1')">
+                <button class="search-button" onclick="performSearch('input1')">搜索</button>
+            </div>
+            <div class="searchInput" id="searchInput2">
+                <input type="text" class="search-input" id="input2" placeholder="请输入keyword..."
+                       onkeydown="checkEnter(event,'input2')">
+                <button class="search-button" onclick="performSearch('input2')">搜索</button>
+            </div>
+            <div class="searchInput" id="searchInput3">
+                <input type="text" class="search-input" id="input3" placeholder="请输入author..."
+                       onkeydown="checkEnter(event,'input3')">
+                <button class="search-button" onclick="performSearch('input3')">搜索</button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!--==================== SEARCH ====================-->
+<div class="search" id="search">
+    <form action="" class="search__form">
+        <i class="ri-search-line search__icon"></i>
+        <input type="search" placeholder="What are you looking for?" class="search__input">
+    </form>
+
+    <i class="ri-close-line search__close" id="search-close"></i>
+</div>
+
+<!--==================== MAIN ====================-->
+<main class="main">
+    <img src="assets/img/bg-image.png" alt="image" class="main__bg">
+    <div class="resultBox">
+        <h2>文献检索结果</h2>
+        <ul id="ul">
+            <!--            js添加标签-->
+        </ul>
+    </div>
+</main>
+
+<!--=============== MAIN JS ===============-->
+<script src="assets/js/search.js"></script>
+</body>
+
+</html>
